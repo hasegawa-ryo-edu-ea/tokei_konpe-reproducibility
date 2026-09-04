@@ -1,0 +1,6 @@
+measure,value
+strict_temporal_train_n,1445.0
+strict_temporal_test_n,1316.0
+strict_temporal_rmse,0.053646871993311446
+strict_temporal_mae,0.050890709646866004
+strict_temporal_r2,0.8707862527405614

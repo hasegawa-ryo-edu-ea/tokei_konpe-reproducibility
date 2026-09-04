@@ -1,0 +1,43 @@
+{
+  "status": "pass",
+  "definition": "Resident-based age-15+ out-of-home worker/student transport universe; numerator is rail-only plus explicitly rail-containing two-mode categories. Three-or-more-mode cases are not counted in the rail numerator because rail membership is not uniformly identifiable across waves; the official total remains the denominator.",
+  "years": {
+    "2000": {
+      "table": "0000033362",
+      "denominator": "cat01=000, cat02=000",
+      "rail_categories": [
+        "003",
+        "012",
+        "013",
+        "014",
+        "015",
+        "016"
+      ]
+    },
+    "2010": {
+      "table": "0003063775",
+      "denominator": "cat01=000, cat02=017",
+      "rail_categories": [
+        "003",
+        "012",
+        "013",
+        "014",
+        "016",
+        "017"
+      ]
+    },
+    "2020": {
+      "table": "0003454513",
+      "denominator": "cat01=0, cat02=0",
+      "rail_categories": [
+        "21",
+        "31",
+        "32",
+        "33",
+        "34",
+        "35"
+      ]
+    }
+  },
+  "numerator_exclusion_all_years": "Three or more transport modes are excluded from the rail numerator only; they remain in the official denominator total."
+}

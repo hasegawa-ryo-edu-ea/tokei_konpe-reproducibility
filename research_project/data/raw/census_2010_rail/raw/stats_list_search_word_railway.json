@@ -1,0 +1,4354 @@
+{
+  "GET_STATS_LIST": {
+    "DATALIST_INF": {
+      "NUMBER": 108,
+      "RESULT_INF": {
+        "FROM_NUMBER": 1,
+        "TO_NUMBER": 108
+      },
+      "TABLE_INF": [
+        {
+          "@id": "0003454512",
+          "COLLECT_AREA": "全国",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 32832,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段の種類数・利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県",
+            "@no": "17-1"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段の種類数・利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454512",
+          "COLLECT_AREA": "都道府県",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 32832,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段の種類数・利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県",
+            "@no": "17-1"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段の種類数・利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454513",
+          "COLLECT_AREA": "全国",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 746700,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段の種類数・利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県，市区町村",
+            "@no": "17-2"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段の種類数・利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県，市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454513",
+          "COLLECT_AREA": "市区町村",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 746700,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段の種類数・利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県，市区町村",
+            "@no": "17-2"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段の種類数・利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県，市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454513",
+          "COLLECT_AREA": "都道府県",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 746700,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段の種類数・利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県，市区町村",
+            "@no": "17-2"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段の種類数・利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県，市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454515",
+          "COLLECT_AREA": "全国",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 20066000,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段の種類数・利用交通手段，従業地・通学地（全国［総数］，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（常住地）",
+            "@no": "19"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段の種類数・利用交通手段，従業地・通学地（全国［総数］，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（常住地）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454515",
+          "COLLECT_AREA": "市区町村",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 20066000,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段の種類数・利用交通手段，従業地・通学地（全国［総数］，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（常住地）",
+            "@no": "19"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段の種類数・利用交通手段，従業地・通学地（全国［総数］，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（常住地）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454515",
+          "COLLECT_AREA": "都道府県",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 20066000,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段の種類数・利用交通手段，従業地・通学地（全国［総数］，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（常住地）",
+            "@no": "19"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段の種類数・利用交通手段，従業地・通学地（全国［総数］，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（常住地）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454517",
+          "COLLECT_AREA": "全国",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 20066000,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段の種類数・利用交通手段，常住地（全国，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国［総数］，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（従業地・通学地）",
+            "@no": "20"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段の種類数・利用交通手段，常住地（全国，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国［総数］，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（従業地・通学地）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454517",
+          "COLLECT_AREA": "市区町村",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 20066000,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段の種類数・利用交通手段，常住地（全国，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国［総数］，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（従業地・通学地）",
+            "@no": "20"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段の種類数・利用交通手段，常住地（全国，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国［総数］，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（従業地・通学地）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454517",
+          "COLLECT_AREA": "都道府県",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 20066000,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段の種類数・利用交通手段，常住地（全国，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国［総数］，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（従業地・通学地）",
+            "@no": "20"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段の種類数・利用交通手段，常住地（全国，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国［総数］，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（従業地・通学地）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033360",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 6968,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（３１）、常住地による人口（４Ａ）、１５歳以上自宅外就業者・通学者数 （常住地）全国・都道府県",
+            "@no": "01101"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（３１）、常住地による人口（４Ａ）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033361",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 5332,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（３１）、従業地・通学地による人口（３B）、１５歳以上自宅外就業者・通学者数 （常住地）全国・都道府県",
+            "@no": "01102"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（３１）、従業地・通学地による人口（３B）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033368",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 3170,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（３１）、１５歳以上自宅外就業者・通学者数 （従業地）１３大都市、常住地（５D）",
+            "@no": "01401"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（３１）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）１３大都市、常住地（５D）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033369",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 63769,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（３１）、１５歳以上自宅外就業者・通学者数 （従業地）１３大都市、（常住地）都道府県・市区町村",
+            "@no": "01402"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（３１）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）１３大都市、（常住地）都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033362",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 203876,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（１９）、常住地による人口（４Ａ）、１５歳以上自宅外就業者・通学者数 （常住地）市区町村",
+            "@no": "01103"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（１９）、常住地による人口（４Ａ）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033363",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 143352,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（１９）、従業地・通学地による人口（３B）、１５歳以上自宅外就業者・通学者数 （従業地）市区町村",
+            "@no": "01104"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（１９）、従業地・通学地による人口（３B）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033366",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 38970,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（１９）、１５歳以上自宅外就業者・通学者数 （常住地）人口１０万以上の市、従業地・通学地（５Ｄ）",
+            "@no": "01301"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（１９）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）人口１０万以上の市、従業地・通学地（５Ｄ）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033367",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 373991,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（１９）、１５歳以上自宅外就業者・通学者数 （常住地）人口１０万以上の市、（従通地）都道府県・市区町村",
+            "@no": "01302"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（１９）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）人口１０万以上の市、（従通地）都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033370",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 37259,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（１９）、１５歳以上自宅外就業者・通学者数 （従業地）人口10万以上の市（１３大都市除く）、常住地（５D）",
+            "@no": "01403"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（１９）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）人口10万以上の市（１３大都市除く）、常住地（５D）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033371",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 412984,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（１９）、１５歳以上自宅外就業者・通学者数 （従業地）人口10万以上の市（１３大都市除く）、（常住地）市区町村",
+            "@no": "01404"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（１９）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）人口10万以上の市（１３大都市除く）、（常住地）市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031735",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 8851,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "従業地・通学地（４Ｂ），利用交通手段（４６），１５歳以上自宅外就業者・通学者数 （常住地）全国・都道府県",
+            "@no": "01101"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "従業地・通学地（４Ｂ），利用交通手段（４６），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031736",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 6777,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "常住地（４Ｂ），利用交通手段（４６），１５歳以上自宅外就業者・通学者数 （従業地・通学地）全国・都道府県",
+            "@no": "01102"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地（４Ｂ），利用交通手段（４６），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地・通学地）全国・都道府県"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031743",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 3812,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "常住地（４Ａ），利用交通手段（４６），１５歳以上自宅外就業者・通学者数 （従業地・通学地）１２大都市",
+            "@no": "01401"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地（４Ａ），利用交通手段（４６），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地・通学地）１２大都市"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031744",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 70084,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "利用交通手段（４６），１５歳以上自宅外就業者・通学者数 （従業地・通学地）１２大都市，（常住地）都道府県・その他の都道府県・市区町村・その他の市区町村",
+            "@no": "01402"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（４６），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地・通学地）１２大都市，（常住地）都道府県・その他の都道府県・市区町村・その他の市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031763",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 70033,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "通勤・通学時間（１３），利用交通手段（４６），総数・１５歳以上自宅外就業者数・１５歳以上自宅外通学者数 （常住地）全国・都道府県",
+            "@no": "02401"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "通勤・通学時間（１３），利用交通手段（４６），総数・１５歳以上自宅外就業者数・１５歳以上自宅外通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003063774",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2012-06-26",
+          "OVERALL_TOTAL_NUMBER": 17280,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 201010,
+          "TITLE": {
+            "$": "常住地又は従業地・通学地による利用交通手段(31区分)別15歳以上自宅外就業者・通学者数 全国，都道府県",
+            "@no": "01110"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地又は従業地・通学地による利用交通手段(31区分)別15歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "全国，都道府県"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003063779",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2012-06-26",
+          "OVERALL_TOTAL_NUMBER": 135900,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 201010,
+          "TITLE": {
+            "$": "従業地・通学地による常住市区町村，利用交通手段(31区分)別15歳以上自宅外就業者・通学者数 20大都市",
+            "@no": "01410"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "従業地・通学地による常住市区町村，利用交通手段(31区分)別15歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "20大都市"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003389152",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2020-05-22",
+          "OVERALL_TOTAL_NUMBER": 350,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 最終報告書日本の人口（平成12年国勢調査の主要結果）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "最終報告書日本の人口（平成12年国勢調査の主要結果）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": "200001-200012",
+          "TITLE": {
+            "$": "常住地による利用交通手段（31区分）別15歳以上自宅外就業者・通学者数－全国（平成12年）",
+            "@no": "59"
+          },
+          "TITLE_SPEC": {
+            "TABLE_EXPLANATION": "・利用交通手段の総数は利用交通手段「不詳」を含む。",
+            "TABLE_NAME": "常住地による利用交通手段（31区分）別15歳以上自宅外就業者・通学者数－全国（平成12年）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003033050",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2011-06-29",
+          "OVERALL_TOTAL_NUMBER": 16800,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 速報集計 抽出速報集計",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "速報集計",
+            "TABULATION_SUB_CATEGORY2": "抽出速報集計"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 201010,
+          "TITLE": {
+            "$": "常住地又は従業地・通学地による利用交通手段(16区分)別15歳以上自宅外就業者・通学者数 全国，都道府県，人口50万以上の市区",
+            "@no": "02300"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地又は従業地・通学地による利用交通手段(16区分)別15歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "全国，都道府県，人口50万以上の市区"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003063775",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2012-06-26",
+          "OVERALL_TOTAL_NUMBER": 393800,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 201010,
+          "TITLE": {
+            "$": "常住地又は従業地・通学地による利用交通手段(16区分)別15歳以上自宅外就業者・通学者数 全国，都道府県，市区町村",
+            "@no": "01120"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地又は従業地・通学地による利用交通手段(16区分)別15歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "全国，都道府県，市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003063777",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2012-06-26",
+          "OVERALL_TOTAL_NUMBER": 395420,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 201010,
+          "TITLE": {
+            "$": "常住地による従業・通学市区町村，利用交通手段(16区分)別15歳以上自宅外就業者・通学者数 人口10万以上の市",
+            "@no": "01301"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地による従業・通学市区町村，利用交通手段(16区分)別15歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "人口10万以上の市"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003063778",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2012-06-26",
+          "OVERALL_TOTAL_NUMBER": 277040,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 201010,
+          "TITLE": {
+            "$": "常住地による従業・通学市区町村，利用交通手段(16区分)別15歳以上自宅外就業者・通学者数 20大都市の区",
+            "@no": "01302"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地による従業・通学市区町村，利用交通手段(16区分)別15歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "20大都市の区"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003063780",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2012-06-26",
+          "OVERALL_TOTAL_NUMBER": 311900,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 201010,
+          "TITLE": {
+            "$": "従業地・通学地による常住市区町村，利用交通手段(16区分)別15歳以上自宅外就業者・通学者数 人口10万以上の市（20大都市除く）",
+            "@no": "01421"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "従業地・通学地による常住市区町村，利用交通手段(16区分)別15歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "人口10万以上の市（20大都市除く）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003063781",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2012-06-26",
+          "OVERALL_TOTAL_NUMBER": 369920,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 201010,
+          "TITLE": {
+            "$": "従業地・通学地による常住市区町村，利用交通手段(16区分)別15歳以上自宅外就業者・通学者数 20大都市の区",
+            "@no": "01422"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "従業地・通学地による常住市区町村，利用交通手段(16区分)別15歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "20大都市の区"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000010108",
+          "COLLECT_AREA": "全国",
+          "CYCLE": "年度次",
+          "DESCRIPTION": {
+            "TABULATION_CATEGORY_EXPLANATION": "社会・人口統計体系の都道府県ごとに集計したデータを提供します。"
+          },
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "OPEN_DATE": "2026-06-30",
+          "OVERALL_TOTAL_NUMBER": 304560,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "都道府県データ 基礎データ",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "都道府県データ",
+            "TABULATION_SUB_CATEGORY1": "基礎データ"
+          },
+          "STAT_NAME": {
+            "$": "社会・人口統計体系",
+            "@code": "00200502"
+          },
+          "SUB_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "SURVEY_DATE": 0,
+          "TITLE": {
+            "$": "Ｈ　居住",
+            "@no": "0000010108"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "Ｈ　居住"
+          },
+          "UPDATED_DATE": "2026-06-30"
+        },
+        {
+          "@id": "0000010108",
+          "COLLECT_AREA": "都道府県",
+          "CYCLE": "年度次",
+          "DESCRIPTION": {
+            "TABULATION_CATEGORY_EXPLANATION": "社会・人口統計体系の都道府県ごとに集計したデータを提供します。"
+          },
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "OPEN_DATE": "2026-06-30",
+          "OVERALL_TOTAL_NUMBER": 304560,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "都道府県データ 基礎データ",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "都道府県データ",
+            "TABULATION_SUB_CATEGORY1": "基礎データ"
+          },
+          "STAT_NAME": {
+            "$": "社会・人口統計体系",
+            "@code": "00200502"
+          },
+          "SUB_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "SURVEY_DATE": 0,
+          "TITLE": {
+            "$": "Ｈ　居住",
+            "@no": "0000010108"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "Ｈ　居住"
+          },
+          "UPDATED_DATE": "2026-06-30"
+        },
+        {
+          "@id": "0000032863",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-06",
+          "OVERALL_TOTAL_NUMBER": 5987,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 1%抽出速報集計",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "1%抽出速報集計"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（１９）、常住地による人口（５）、１５歳以上自宅外就業者・通学者数 全国・都道府県・１３大都市・人口５０万以上の市区（３０）",
+            "@no": "02901"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（１９）、常住地による人口（５）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "全国・都道府県・１３大都市・人口５０万以上の市区（３０）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000032864",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-06",
+          "OVERALL_TOTAL_NUMBER": 4616,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 1%抽出速報集計",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "1%抽出速報集計"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（１９）、従業地・通学地による人口（４）、１５歳以上自宅外就業者・通学者数 全国・都道府県・１３大都市・人口５０万以上の市区（３０）",
+            "@no": "02902"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（１９）、従業地・通学地による人口（４）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "全国・都道府県・１３大都市・人口５０万以上の市区（３０）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031293",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 6570,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 1%抽出速報集計",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "1%抽出速報集計"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "利用交通手段（２０），常住地又は従業地・通学地（９），１５歳以上自宅外就業者・通学者数 全国・都道府県（４７）",
+            "@no": "021"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（２０），常住地又は従業地・通学地（９），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "全国・都道府県（４７）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031737",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 209021,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "従業地・通学地（４Ｂ），利用交通手段（２０），１５歳以上自宅外就業者・通学者数 （常住地）市区町村",
+            "@no": "01103"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "従業地・通学地（４Ｂ），利用交通手段（２０），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031738",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 148839,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "常住地（４Ｂ），利用交通手段（２０），１５歳以上自宅外就業者・通学者数 （従業地・通学地）市区町村",
+            "@no": "01104"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地（４Ｂ），利用交通手段（２０），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地・通学地）市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031741",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 37987,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "従業地・通学地（４Ａ），利用交通手段（２０），１５歳以上自宅外就業者・通学者数 （常住地）人口１０万以上の市・区",
+            "@no": "01301"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "従業地・通学地（４Ａ），利用交通手段（２０），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）人口１０万以上の市・区"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031742",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 340694,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "利用交通手段（２０），１５歳以上自宅外就業者・通学者数 （常住地）人口１０万以上の市・区 （従業地・通学地）都道府県・その他の都道府県・市区町村・その他の市区町村",
+            "@no": "01302"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（２０），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）人口１０万以上の市・区",
+            "TABLE_SUB_CATEGORY2": "（従業地・通学地）都道府県・その他の都道府県・市区町村・その他の市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031745",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 36309,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "常住地（４Ａ），利用交通手段（２０），１５歳以上自宅外就業者・通学者数 （従業地・通学地）人口１０万以上の市・区（１２大都市を除く）",
+            "@no": "01403"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地（４Ａ），利用交通手段（２０），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地・通学地）人口１０万以上の市・区（１２大都市を除く）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031746",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 389451,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "利用交通手段（２０），１５歳以上自宅外就業者・通学者数 （従業地・通学地）人口１０万以上の市・区（１２大都市を除く） （常住地）都道府県・その他の都道府県・市区町村・その他の市区町村",
+            "@no": "01404"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（２０），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地・通学地）人口１０万以上の市・区（１２大都市を除く）",
+            "TABLE_SUB_CATEGORY2": "（常住地）都道府県・その他の都道府県・市区町村・その他の市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031764",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 1522117,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "通勤・通学時間（１３），利用交通手段（２０），総数・１５歳以上自宅外就業者数・１５歳以上自宅外通学者数 （常住地）市区町村",
+            "@no": "02402"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "通勤・通学時間（１３），利用交通手段（２０），総数・１５歳以上自宅外就業者数・１５歳以上自宅外通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031765",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 368631,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "従業地・通学地（４Ｂ），利用交通手段（２０），通勤・通学時間（１３），１５歳以上自宅外就業者・通学者数 （常住地）全国・都道府県・人口１０万以上の市・区",
+            "@no": "02501"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "従業地・通学地（４Ｂ），利用交通手段（２０），通勤・通学時間（１３），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県・人口１０万以上の市・区"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031766",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 294133,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "常住地（４Ｂ），利用交通手段（２０），通勤・通学時間（１３），１５歳以上自宅外就業者・通学者数 （従業地・通学地）全国・都道府県・人口１０万以上の市・区",
+            "@no": "02502"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地（４Ｂ），利用交通手段（２０），通勤・通学時間（１３），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地・通学地）全国・都道府県・人口１０万以上の市・区"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033364",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 121399,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（９）、常住地による人口（４Ａ）、１５歳以上自宅外就業者・通学者数 （常住地）全国・都道府県・市区町村",
+            "@no": "01201"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（９）、常住地による人口（４Ａ）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033365",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 87315,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（９）、従業地・通学地による人口（３B）、１５歳以上自宅外就業者・通学者数 （従業地）全国・都道府県・市区町村",
+            "@no": "01202"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（９）、従業地・通学地による人口（３B）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033372",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 20706,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（９）、１５歳以上自宅外就業者・通学者数 （常住地）人口１０万以上の市、従業地・通学地（５Ｄ）",
+            "@no": "01501"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（９）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）人口１０万以上の市、従業地・通学地（５Ｄ）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033373",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 223726,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（９）、１５歳以上自宅外就業者・通学者数 （常住地）人口１０万以上の市、（従通地）都道府県・市区町村",
+            "@no": "01502"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（９）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）人口１０万以上の市、（従通地）都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033374",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 20728,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（９）、１５歳以上自宅外就業者・通学者数 （従業地）人口１０万以上の市、常住地（５D）",
+            "@no": "01601"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（９）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）人口１０万以上の市、常住地（５D）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033375",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 272996,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "利用交通手段（９）、１５歳以上自宅外就業者・通学者数 （従業地）人口１０万以上の市、（常住地）都道府県・市区町村",
+            "@no": "01602"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（９）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）人口１０万以上の市、（常住地）都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454514",
+          "COLLECT_AREA": "全国",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 410685,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県，市区町村",
+            "@no": "18"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県，市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454514",
+          "COLLECT_AREA": "市区町村",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 410685,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県，市区町村",
+            "@no": "18"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県，市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454514",
+          "COLLECT_AREA": "都道府県",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 410685,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県，市区町村",
+            "@no": "18"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県，市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454518",
+          "COLLECT_AREA": "全国",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 11036300,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段，従業地・通学地（全国［総数］，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（常住地）",
+            "@no": "21"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段，従業地・通学地（全国［総数］，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（常住地）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454518",
+          "COLLECT_AREA": "市区町村",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 11036300,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段，従業地・通学地（全国［総数］，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（常住地）",
+            "@no": "21"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段，従業地・通学地（全国［総数］，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（常住地）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454518",
+          "COLLECT_AREA": "都道府県",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 11036300,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段，従業地・通学地（全国［総数］，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（常住地）",
+            "@no": "21"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段，従業地・通学地（全国［総数］，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（常住地）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454519",
+          "COLLECT_AREA": "全国",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 11036300,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段，常住地（全国，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国［総数］，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（従業地・通学地）",
+            "@no": "22"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段，常住地（全国，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国［総数］，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（従業地・通学地）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454519",
+          "COLLECT_AREA": "市区町村",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 11036300,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段，常住地（全国，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国［総数］，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（従業地・通学地）",
+            "@no": "22"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段，常住地（全国，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国［総数］，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（従業地・通学地）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003454519",
+          "COLLECT_AREA": "都道府県",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2022-07-22",
+          "OVERALL_TOTAL_NUMBER": 11036300,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "令和２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 202010,
+          "TITLE": {
+            "$": "利用交通手段 利用交通手段，常住地（全国，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国［総数］，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（従業地・通学地）",
+            "@no": "22"
+          },
+          "TITLE_SPEC": {
+            "TABLE_CATEGORY": "利用交通手段",
+            "TABLE_NAME": "利用交通手段，常住地（全国，都道府県，市区町村）別通勤者・通学者数（15歳以上）－全国［総数］，都道府県，21大都市，21大都市の区，県庁所在市，人口10万以上の市（従業地・通学地）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003410872",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2020-05-22",
+          "OVERALL_TOTAL_NUMBER": 960,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 最終報告書「日本の人口・世帯」統計表",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "最終報告書「日本の人口・世帯」統計表"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": "201001-201012",
+          "TITLE": {
+            "$": "常住地による利用交通手段（9区分）別15歳以上自宅外就業者・通学者数－全国，都道府県（平成22年）",
+            "@no": "40"
+          },
+          "TITLE_SPEC": {
+            "TABLE_EXPLANATION": "1)&nbsp;総数は利用交通手段不詳を含む。2)&nbsp;複数回答であるので，利用交通手段９区分を足しあげたものとは必ずしも一致しない。",
+            "TABLE_NAME": "常住地による利用交通手段（9区分）別15歳以上自宅外就業者・通学者数－全国，都道府県（平成22年）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003063776",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2012-06-26",
+          "OVERALL_TOTAL_NUMBER": 216590,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 201010,
+          "TITLE": {
+            "$": "常住地又は従業地・通学地による利用交通手段(9区分)別15歳以上自宅外就業者・通学者数 全国，都道府県，市区町村",
+            "@no": "01200"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地又は従業地・通学地による利用交通手段(9区分)別15歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "全国，都道府県，市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003063782",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2012-06-26",
+          "OVERALL_TOTAL_NUMBER": 217481,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 201010,
+          "TITLE": {
+            "$": "常住地による従業・通学市区町村，利用交通手段(9区分)別15歳以上自宅外就業者・通学者数 人口10万以上の市",
+            "@no": "01501"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地による従業・通学市区町村，利用交通手段(9区分)別15歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "人口10万以上の市"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003063783",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2012-06-26",
+          "OVERALL_TOTAL_NUMBER": 152372,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 201010,
+          "TITLE": {
+            "$": "常住地による従業・通学市区町村，利用交通手段(9区分)別15歳以上自宅外就業者・通学者数 20大都市の区",
+            "@no": "01502"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地による従業・通学市区町村，利用交通手段(9区分)別15歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "20大都市の区"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003063784",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2012-06-26",
+          "OVERALL_TOTAL_NUMBER": 213070,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 201010,
+          "TITLE": {
+            "$": "従業地・通学地による常住市区町村，利用交通手段(9区分)別15歳以上自宅外就業者・通学者数 人口10万以上の市",
+            "@no": "01601"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "従業地・通学地による常住市区町村，利用交通手段(9区分)別15歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "人口10万以上の市"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003063785",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2012-06-26",
+          "OVERALL_TOTAL_NUMBER": 203456,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成22年国勢調査 従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成22年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）)"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 201010,
+          "TITLE": {
+            "$": "従業地・通学地による常住市区町村，利用交通手段(9区分)別15歳以上自宅外就業者・通学者数 20大都市の区",
+            "@no": "01602"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "従業地・通学地による常住市区町村，利用交通手段(9区分)別15歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "20大都市の区"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0003389171",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2020-05-22",
+          "OVERALL_TOTAL_NUMBER": 960,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 最終報告書日本の人口（平成12年国勢調査の主要結果）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "最終報告書日本の人口（平成12年国勢調査の主要結果）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": "200001-200012",
+          "TITLE": {
+            "$": "常住地による利用交通手段（9区分）別15歳以上自宅外就業者・通学者数－全国，都道府県（平成12年）",
+            "@no": "60"
+          },
+          "TITLE_SPEC": {
+            "TABLE_EXPLANATION": "・総数は利用交通手段不詳を含む。複数回答であるので，利用交通手段９区分を足しあげたものとは必ずしも一致しない。",
+            "TABLE_NAME": "常住地による利用交通手段（9区分）別15歳以上自宅外就業者・通学者数－全国，都道府県（平成12年）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031294",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 3804,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 1%抽出速報集計",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "1%抽出速報集計"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "利用交通手段（１１），常住地又は従業地・通学地（９），１５歳以上自宅外就業者・通学者数 全国・都道府県（４７）",
+            "@no": "022"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（１１），常住地又は従業地・通学地（９），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "全国・都道府県（４７）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031739",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 132223,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "従業地・通学地（４Ｂ），利用交通手段（１１），１５歳以上自宅外就業者・通学者数 （常住地）全国・都道府県・市区町村",
+            "@no": "01201"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "従業地・通学地（４Ｂ），利用交通手段（１１），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031740",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 94956,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "常住地（４Ｂ），利用交通手段（１１），１５歳以上自宅外就業者・通学者数 （従業地・通学地）全国・都道府県・市区町村",
+            "@no": "01202"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地（４Ｂ），利用交通手段（１１），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地・通学地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031747",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 21079,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "従業地・通学地（４Ａ），利用交通手段（１１），１５歳以上自宅外就業者・通学者数 （常住地）人口１０万以上の市・区",
+            "@no": "01501"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "従業地・通学地（４Ａ），利用交通手段（１１），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）人口１０万以上の市・区"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031748",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 215148,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "利用交通手段（１１），１５歳以上自宅外就業者・通学者数 （常住地）人口１０万以上の市・区 （従業地・通学地）都道府県・その他の都道府県・市区町村・その他の市区町村",
+            "@no": "01502"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（１１），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）人口１０万以上の市・区",
+            "TABLE_SUB_CATEGORY2": "（従業地・通学地）都道府県・その他の都道府県・市区町村・その他の市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031749",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 21090,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "常住地（４Ａ），利用交通手段（１１），１５歳以上自宅外就業者・通学者数 （従業地・通学地）人口１０万以上の市・区",
+            "@no": "01601"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "常住地（４Ａ），利用交通手段（１１），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地・通学地）人口１０万以上の市・区"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000031750",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-05",
+          "OVERALL_TOTAL_NUMBER": 274904,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成２年国勢調査 従業地・通学地集計その1",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成２年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 199010,
+          "TITLE": {
+            "$": "利用交通手段（１１），１５歳以上自宅外就業者・通学者数 （従業地・通学地）人口１０万以上の市・区 （常住地）都道府県・その他の都道府県・市区町村・その他の市区町村",
+            "@no": "01602"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "利用交通手段（１１），１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地・通学地）人口１０万以上の市・区",
+            "TABLE_SUB_CATEGORY2": "（常住地）都道府県・その他の都道府県・市区町村・その他の市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000020108",
+          "COLLECT_AREA": "市区町村",
+          "CYCLE": "年度次",
+          "DESCRIPTION": {
+            "TABULATION_CATEGORY_EXPLANATION": "社会・人口統計体系の市区町村ごとに集計したデータを提供します。"
+          },
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "OPEN_DATE": "2026-06-19",
+          "OVERALL_TOTAL_NUMBER": 3895663,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "市区町村データ 基礎データ（オリジナル）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "市区町村データ",
+            "TABULATION_SUB_CATEGORY1": "基礎データ（オリジナル）"
+          },
+          "STAT_NAME": {
+            "$": "社会・人口統計体系",
+            "@code": "00200502"
+          },
+          "SUB_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "SURVEY_DATE": 0,
+          "TITLE": {
+            "$": "Ｈ　居住",
+            "@no": "0000020108"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "Ｈ　居住"
+          },
+          "UPDATED_DATE": "2026-06-19"
+        },
+        {
+          "@id": "0000020208",
+          "COLLECT_AREA": "市区町村",
+          "CYCLE": "年度次",
+          "DESCRIPTION": {
+            "TABULATION_CATEGORY_EXPLANATION": "社会・人口統計体系の市区町村ごとに集計したデータを提供します。",
+            "TABULATION_SUB_CATEGORY_EXPLANATION1": "データは、2025年3月31日時点の市区町村で整備しています。"
+          },
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "OPEN_DATE": "2026-06-19",
+          "OVERALL_TOTAL_NUMBER": 3362659,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "市区町村データ 基礎データ（廃置分合処理済）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "市区町村データ",
+            "TABULATION_SUB_CATEGORY1": "基礎データ（廃置分合処理済）"
+          },
+          "STAT_NAME": {
+            "$": "社会・人口統計体系",
+            "@code": "00200502"
+          },
+          "SUB_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "SURVEY_DATE": 0,
+          "TITLE": {
+            "$": "Ｈ　居住",
+            "@no": "0000020208"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "Ｈ　居住"
+          },
+          "UPDATED_DATE": "2026-06-19"
+        },
+        {
+          "@id": "0000033332",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 1101815,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "男女（３）、年齢（５歳階級２０Ｃ）、常住地による人口（７）、人口 （常住地）全国・都道府県・市区町村",
+            "@no": "00101"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "男女（３）、年齢（５歳階級２０Ｃ）、常住地による人口（７）、人口",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033333",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 668304,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "男女（３）、年齢（５歳階級２０Ｃ）、常住地による人口（４Ｂ）、１５歳以上就業者数 （常住地）全国・都道府県・市区町村",
+            "@no": "00102"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "男女（３）、年齢（５歳階級２０Ｃ）、常住地による人口（４Ｂ）、１５歳以上就業者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033334",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 497303,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "男女（３）、年齢（５歳階級２０Ｃ）、従業地・通学地による人口（３A）、人口 （従業地）全国・都道府県・市区町村",
+            "@no": "00103"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "男女（３）、年齢（５歳階級２０Ｃ）、従業地・通学地による人口（３A）、人口",
+            "TABLE_SUB_CATEGORY1": "（従業地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033335",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 474914,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "男女（３）、年齢（５歳階級２０Ｃ）、従業地・通学地による人口（３B）、１５歳以上就業者数 （従業地）全国・都道府県・市区町村",
+            "@no": "00104"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "男女（３）、年齢（５歳階級２０Ｃ）、従業地・通学地による人口（３B）、１５歳以上就業者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033336",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 47970,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "有配偶の女性就業者（３）、常住地による人口（７）、人口 （常住地）全国・都道府県・市区町村",
+            "@no": "00105"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "有配偶の女性就業者（３）、常住地による人口（７）、人口",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033337",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 37687,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "有配偶の女性就業者（３）、常住地による人口（４Ｂ）、１５歳以上就業者数 （常住地）全国・都道府県・市区町村",
+            "@no": "00106"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "有配偶の女性就業者（３）、常住地による人口（４Ｂ）、１５歳以上就業者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033338",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 27208,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "有配偶の女性就業者（３）、従業地・通学地による人口（３A）、人口 （従業地）全国・都道府県・市区町村",
+            "@no": "00107"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "有配偶の女性就業者（３）、従業地・通学地による人口（３A）、人口",
+            "TABLE_SUB_CATEGORY1": "（従業地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033339",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 27208,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "有配偶の女性就業者（３）、従業地・通学地による人口（３B）、１５歳以上就業者数 （従業地）全国・都道府県・市区町村",
+            "@no": "00108"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "有配偶の女性就業者（３）、従業地・通学地による人口（３B）、１５歳以上就業者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033340",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 3888,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数 （常住地）全国・都道府県、従業地・通学地（５Ａ）",
+            "@no": "00201"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県、従業地・通学地（５Ａ）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033341",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 257828,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数 （常住地）市区町村、従業地・通学地（５B）",
+            "@no": "00203"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）市区町村、従業地・通学地（５B）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033342",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 17802,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数 （常住地）都道府県、（従業地・通学地）都道府県",
+            "@no": "00205"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）都道府県、（従業地・通学地）都道府県"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033343",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 2638710,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数 （常住地）市区町村、（従通地）都道府県・市区町村",
+            "@no": "00206"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）市区町村、（従通地）都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033344",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 3798,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数 （従業地）都道府県、常住地（５Ａ）",
+            "@no": "00301"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）都道府県、常住地（５Ａ）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033345",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 244736,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数 （従業地）市区町村、常住地（５Ｂ）",
+            "@no": "00303"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）市区町村、常住地（５Ｂ）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033346",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 17802,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数 （従業地）都道府県、（常住地）都道府県",
+            "@no": "00305"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）都道府県、（常住地）都道府県"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033347",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 2593978,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数 （従業地）市区町村、（常住地）都道府県・市区町村",
+            "@no": "00306"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "男女（３）、通勤・通学者数（２）、１５歳以上就業者数・１５歳以上通学者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）市区町村、（常住地）都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033348",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 5845,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "男女（３）、常住都道府県（４７）、従業・通学都道府県（４７）、１５歳以上自宅外就業者・通学者数 全国",
+            "@no": "004"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "男女（３）、常住都道府県（４７）、従業・通学都道府県（４７）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "全国"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033349",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 10163,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "通勤・通学者数（２）、１５歳以上自宅外就業者・通学者数 （常住地）都道府県・市区町村",
+            "@no": "00501"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "通勤・通学者数（２）、１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033350",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 131654,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "１５歳以上自宅外就業者・通学者数 （常住地）都道府県・市区町村、（従業地）市区町村",
+            "@no": "00502"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "１５歳以上自宅外就業者・通学者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）都道府県・市区町村、（従業地）市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033351",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 578102,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "配偶関係（４）、男女（３）、１５歳以上年齢（５歳階級１９）、常住地による人口（５）、１５歳以上就業者数 （常住地）全国・人口１０万以上の市",
+            "@no": "00601"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "配偶関係（４）、男女（３）、１５歳以上年齢（５歳階級１９）、常住地による人口（５）、１５歳以上就業者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・人口１０万以上の市"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033352",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 301263,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "配偶関係（４）、男女（３）、１５歳以上年齢（５歳階級１９）、従業地・通学地による人口（３B）、１５歳以上就業者数 （常住地）全国・人口１０万以上の市",
+            "@no": "00602"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "配偶関係（４）、男女（３）、１５歳以上年齢（５歳階級１９）、従業地・通学地による人口（３B）、１５歳以上就業者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・人口１０万以上の市"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033353",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 237558,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "産業（大分類１５）、常住地による人口（５）、１５歳以上就業者数 （常住地）全国・都道府県・市区町村",
+            "@no": "00701"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "産業（大分類１５）、常住地による人口（５）、１５歳以上就業者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033354",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 117674,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "産業（大分類１５）、従業地・通学地による人口（３B）、１５歳以上就業者数 （常住地）全国・都道府県・市区町村",
+            "@no": "00702"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "産業（大分類１５）、従業地・通学地による人口（３B）、１５歳以上就業者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033355",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 28402,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "産業（大分類１５）、１５歳以上就業者数 （常住地）人口２０万以上の市、従業地・通学地（５Ｃ）",
+            "@no": "00801"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "産業（大分類１５）、１５歳以上就業者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）人口２０万以上の市、従業地・通学地（５Ｃ）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033356",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 192685,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "産業（大分類１５）、１５歳以上就業者数 （常住地）人口２０万以上の市、（従通地）都道府県・市区町村",
+            "@no": "00802"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "産業（大分類１５）、１５歳以上就業者数",
+            "TABLE_SUB_CATEGORY1": "（常住地）人口２０万以上の市、（従通地）都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033357",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 28175,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "産業（大分類１５）、１５歳以上就業者数 （従業地）人口２０万以上の市、常住地（５Ｃ）",
+            "@no": "00901"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "産業（大分類１５）、１５歳以上就業者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）人口２０万以上の市、常住地（５Ｃ）"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033358",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 254453,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "産業（大分類１５）、１５歳以上就業者数 （従業地）人口２０万以上の市、（常住地）都道府県・市区町村",
+            "@no": "00902"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "産業（大分類１５）、１５歳以上就業者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）人口２０万以上の市、（常住地）都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        },
+        {
+          "@id": "0000033359",
+          "COLLECT_AREA": "該当なし",
+          "CYCLE": "-",
+          "DESCRIPTION": "",
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "人口・世帯",
+            "@code": "02"
+          },
+          "OPEN_DATE": "2007-10-07",
+          "OVERALL_TOTAL_NUMBER": 6783769,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "平成12年国勢調査 従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "平成12年国勢調査",
+            "TABULATION_SUB_CATEGORY1": "従業地・通学地集計その1（通勤・通学人口，従業地による就業者の産業別構成，利用交通手段など）"
+          },
+          "STAT_NAME": {
+            "$": "国勢調査",
+            "@code": "00200521"
+          },
+          "SUB_CATEGORY": {
+            "$": "人口",
+            "@code": "01"
+          },
+          "SURVEY_DATE": 200010,
+          "TITLE": {
+            "$": "従業上の地位（５）、男女（３）、１５歳以上年齢（５歳階級１６）、産業（大分類１５）、１５歳以上就業者数 （従業地）全国・都道府県・市区町村",
+            "@no": "010"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "従業上の地位（５）、男女（３）、１５歳以上年齢（５歳階級１６）、産業（大分類１５）、１５歳以上就業者数",
+            "TABLE_SUB_CATEGORY1": "（従業地）全国・都道府県・市区町村"
+          },
+          "UPDATED_DATE": "2026-05-29"
+        }
+      ]
+    },
+    "PARAMETER": {
+      "DATA_FORMAT": "J",
+      "LANG": "J",
+      "LIMIT": 100000,
+      "SEARCH_WORD": "利用交通手段"
+    },
+    "RESULT": {
+      "DATE": "2026-09-03T17:18:26.450+09:00",
+      "ERROR_MSG": "正常に終了しました。",
+      "STATUS": 0
+    }
+  }
+}

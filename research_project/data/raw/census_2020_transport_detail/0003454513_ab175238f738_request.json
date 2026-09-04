@@ -1,0 +1,14 @@
+{
+  "source": "e-Stat API getStatsData",
+  "retrieved_at": "2026-09-03T22:32:29+09:00",
+  "stats_data_id": "0003454513",
+  "filters": {
+    "statsDataId": "0003454513",
+    "metaGetFlg": "N",
+    "limit": "100000",
+    "cdCat01": "0,21,31,32,33,34,35"
+  },
+  "rows": 261345,
+  "pages": 3,
+  "values_file": "data\\raw\\census_2020_transport_detail\\0003454513_ab175238f738.jsonl.gz"
+}

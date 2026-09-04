@@ -1,0 +1,2 @@
+model,feature_set,split,n_features,rmse,mae,r2,spearman
+catboost,all_features,prefecture_group_kfold,69,0.048636260461555676,0.028490826998255208,0.7756606857978143,0.7314645185725203

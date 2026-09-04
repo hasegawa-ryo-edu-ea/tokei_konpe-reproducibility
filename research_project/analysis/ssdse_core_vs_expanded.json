@@ -1,0 +1,28 @@
+{
+  "models": [
+    {
+      "model": "SSDSE-A Core",
+      "split": "prefecture_group_kfold",
+      "n": 1740,
+      "n_features": 29,
+      "rmse": 0.05050819258849895,
+      "mae": 0.030579554272961218,
+      "r2": 0.7580594339970441,
+      "spearman": 0.7043220985179028
+    },
+    {
+      "model": "SSDSE-A + e-Stat SSDS Expanded",
+      "split": "prefecture_group_kfold",
+      "n": 1740,
+      "n_features": 69,
+      "rmse": 0.04935728064746473,
+      "mae": 0.02907412255167065,
+      "r2": 0.7689598355552202,
+      "spearman": 0.7306010201966154
+    }
+  ],
+  "same_universe": true,
+  "same_target": "2020 H730 railway-use share",
+  "same_split": "GroupKFold(5) by prefecture",
+  "feature_order_policy": "frozen audited order"
+}

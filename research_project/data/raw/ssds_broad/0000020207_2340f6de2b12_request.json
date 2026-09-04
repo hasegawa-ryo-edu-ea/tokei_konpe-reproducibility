@@ -1,0 +1,14 @@
+{
+  "source": "e-Stat API getStatsData",
+  "retrieved_at": "2026-09-03T17:23:27+09:00",
+  "stats_data_id": "0000020207",
+  "filters": {
+    "statsDataId": "0000020207",
+    "metaGetFlg": "N",
+    "limit": "100000",
+    "cdCat01": "G1201,G1401"
+  },
+  "rows": 42070,
+  "pages": 1,
+  "values_file": "research_project\\data\\raw\\ssds_broad\\0000020207_2340f6de2b12.jsonl.gz"
+}

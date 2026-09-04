@@ -1,0 +1,189 @@
+{
+  "GET_STATS_LIST": {
+    "DATALIST_INF": {
+      "NUMBER": 4,
+      "RESULT_INF": {
+        "FROM_NUMBER": 1,
+        "TO_NUMBER": 4
+      },
+      "TABLE_INF": [
+        {
+          "@id": "0000010108",
+          "COLLECT_AREA": "全国",
+          "CYCLE": "年度次",
+          "DESCRIPTION": {
+            "TABULATION_CATEGORY_EXPLANATION": "社会・人口統計体系の都道府県ごとに集計したデータを提供します。"
+          },
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "OPEN_DATE": "2026-06-30",
+          "OVERALL_TOTAL_NUMBER": 304560,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "都道府県データ 基礎データ",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "都道府県データ",
+            "TABULATION_SUB_CATEGORY1": "基礎データ"
+          },
+          "STAT_NAME": {
+            "$": "社会・人口統計体系",
+            "@code": "00200502"
+          },
+          "SUB_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "SURVEY_DATE": 0,
+          "TITLE": {
+            "$": "Ｈ　居住",
+            "@no": "0000010108"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "Ｈ　居住"
+          },
+          "UPDATED_DATE": "2026-06-30"
+        },
+        {
+          "@id": "0000010108",
+          "COLLECT_AREA": "都道府県",
+          "CYCLE": "年度次",
+          "DESCRIPTION": {
+            "TABULATION_CATEGORY_EXPLANATION": "社会・人口統計体系の都道府県ごとに集計したデータを提供します。"
+          },
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "OPEN_DATE": "2026-06-30",
+          "OVERALL_TOTAL_NUMBER": 304560,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "都道府県データ 基礎データ",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "都道府県データ",
+            "TABULATION_SUB_CATEGORY1": "基礎データ"
+          },
+          "STAT_NAME": {
+            "$": "社会・人口統計体系",
+            "@code": "00200502"
+          },
+          "SUB_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "SURVEY_DATE": 0,
+          "TITLE": {
+            "$": "Ｈ　居住",
+            "@no": "0000010108"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "Ｈ　居住"
+          },
+          "UPDATED_DATE": "2026-06-30"
+        },
+        {
+          "@id": "0000020108",
+          "COLLECT_AREA": "市区町村",
+          "CYCLE": "年度次",
+          "DESCRIPTION": {
+            "TABULATION_CATEGORY_EXPLANATION": "社会・人口統計体系の市区町村ごとに集計したデータを提供します。"
+          },
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "OPEN_DATE": "2026-06-19",
+          "OVERALL_TOTAL_NUMBER": 3895663,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "市区町村データ 基礎データ（オリジナル）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "市区町村データ",
+            "TABULATION_SUB_CATEGORY1": "基礎データ（オリジナル）"
+          },
+          "STAT_NAME": {
+            "$": "社会・人口統計体系",
+            "@code": "00200502"
+          },
+          "SUB_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "SURVEY_DATE": 0,
+          "TITLE": {
+            "$": "Ｈ　居住",
+            "@no": "0000020108"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "Ｈ　居住"
+          },
+          "UPDATED_DATE": "2026-06-19"
+        },
+        {
+          "@id": "0000020208",
+          "COLLECT_AREA": "市区町村",
+          "CYCLE": "年度次",
+          "DESCRIPTION": {
+            "TABULATION_CATEGORY_EXPLANATION": "社会・人口統計体系の市区町村ごとに集計したデータを提供します。",
+            "TABULATION_SUB_CATEGORY_EXPLANATION1": "データは、2025年3月31日時点の市区町村で整備しています。"
+          },
+          "GOV_ORG": {
+            "$": "総務省",
+            "@code": "00200"
+          },
+          "MAIN_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "OPEN_DATE": "2026-06-19",
+          "OVERALL_TOTAL_NUMBER": 3362659,
+          "SMALL_AREA": 0,
+          "STATISTICS_NAME": "市区町村データ 基礎データ（廃置分合処理済）",
+          "STATISTICS_NAME_SPEC": {
+            "TABULATION_CATEGORY": "市区町村データ",
+            "TABULATION_SUB_CATEGORY1": "基礎データ（廃置分合処理済）"
+          },
+          "STAT_NAME": {
+            "$": "社会・人口統計体系",
+            "@code": "00200502"
+          },
+          "SUB_CATEGORY": {
+            "$": "その他",
+            "@code": "99"
+          },
+          "SURVEY_DATE": 0,
+          "TITLE": {
+            "$": "Ｈ　居住",
+            "@no": "0000020208"
+          },
+          "TITLE_SPEC": {
+            "TABLE_NAME": "Ｈ　居住"
+          },
+          "UPDATED_DATE": "2026-06-19"
+        }
+      ]
+    },
+    "PARAMETER": {
+      "DATA_FORMAT": "J",
+      "LANG": "J",
+      "LIMIT": 100000,
+      "SEARCH_WORD": "H730102"
+    },
+    "RESULT": {
+      "DATE": "2026-09-03T17:13:12.326+09:00",
+      "ERROR_MSG": "正常に終了しました。",
+      "STATUS": 0
+    }
+  }
+}

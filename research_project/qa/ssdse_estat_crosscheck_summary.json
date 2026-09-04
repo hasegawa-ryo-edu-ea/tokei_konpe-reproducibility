@@ -1,0 +1,7 @@
+{
+  "status": "pass",
+  "items_compared": 8,
+  "items_with_mismatch": 0,
+  "items_not_comparable": 15,
+  "method": "Comparison requires same item code, verified same definition, and same 2020 reference year; non-comparable rows are not treated as matches."
+}

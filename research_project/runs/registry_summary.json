@@ -1,0 +1,18 @@
+{
+  "unique_runs": 21,
+  "duplicate_run_ids": 0,
+  "columns": [
+    "run_id",
+    "timestamp",
+    "dataset_hash",
+    "feature_set",
+    "outcome",
+    "period",
+    "model",
+    "parameters",
+    "split_method",
+    "metrics",
+    "selected",
+    "selection_reason"
+  ]
+}

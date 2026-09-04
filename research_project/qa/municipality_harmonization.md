@@ -1,0 +1,1 @@
+Strict exact-code cohort uses only area codes present with nonmissing numerator and denominator in 2000, 2010, and 2020 direct Census tables; national/prefecture aggregate codes ending 000 are excluded. No municipality name join or value aggregation is performed. Shared code does not prove unchanged geography; this is labelled strict_exact_code rather than boundary-perfect.

@@ -1,0 +1,337 @@
+{
+  "GET_META_INFO": {
+    "METADATA_INF": {
+      "CLASS_INF": {
+        "CLASS_OBJ": [
+          {
+            "@id": "tab",
+            "@name": "表章項目",
+            "CLASS": [
+              {
+                "@code": "1370",
+                "@level": "",
+                "@name": "常住地による15歳以上自宅外就業者・通学者数",
+                "@unit": "人"
+              },
+              {
+                "@code": "105",
+                "@level": "",
+                "@name": "割合",
+                "@unit": "％"
+              }
+            ]
+          },
+          {
+            "@id": "cat01",
+            "@name": "常住地2000",
+            "CLASS": [
+              {
+                "@code": "100",
+                "@level": "1",
+                "@name": "総数"
+              },
+              {
+                "@code": "110",
+                "@level": "2",
+                "@name": "自市区町村で従業・通学",
+                "@parentCode": "100"
+              },
+              {
+                "@code": "120",
+                "@level": "2",
+                "@name": "自市内他区で従業・通学",
+                "@parentCode": "100"
+              },
+              {
+                "@code": "130",
+                "@level": "2",
+                "@name": "県内他市区町村で従業・通学",
+                "@parentCode": "100"
+              },
+              {
+                "@code": "140",
+                "@level": "2",
+                "@name": "他県で従業・通学",
+                "@parentCode": "100"
+              }
+            ]
+          },
+          {
+            "@id": "cat02",
+            "@name": "利用交通手段31区分2000",
+            "CLASS": [
+              {
+                "@code": "100",
+                "@level": "1",
+                "@name": "総数"
+              },
+              {
+                "@code": "110",
+                "@level": "2",
+                "@name": "１利用交通手段が１種類",
+                "@parentCode": "100"
+              },
+              {
+                "@code": "120",
+                "@level": "3",
+                "@name": "1徒歩だけ",
+                "@parentCode": "110"
+              },
+              {
+                "@code": "130",
+                "@level": "3",
+                "@name": "2鉄道・電車",
+                "@parentCode": "110"
+              },
+              {
+                "@code": "140",
+                "@level": "3",
+                "@name": "3乗合バス",
+                "@parentCode": "110"
+              },
+              {
+                "@code": "150",
+                "@level": "3",
+                "@name": "4勤め先・学校のバス",
+                "@parentCode": "110"
+              },
+              {
+                "@code": "160",
+                "@level": "3",
+                "@name": "5自家用車",
+                "@parentCode": "110"
+              },
+              {
+                "@code": "170",
+                "@level": "3",
+                "@name": "6ハイヤー・タクシー",
+                "@parentCode": "110"
+              },
+              {
+                "@code": "180",
+                "@level": "3",
+                "@name": "7オートバイ",
+                "@parentCode": "110"
+              },
+              {
+                "@code": "190",
+                "@level": "3",
+                "@name": "8自転車",
+                "@parentCode": "110"
+              },
+              {
+                "@code": "200",
+                "@level": "3",
+                "@name": "9その他",
+                "@parentCode": "110"
+              },
+              {
+                "@code": "210",
+                "@level": "2",
+                "@name": "２利用交通手段が２種類",
+                "@parentCode": "100"
+              },
+              {
+                "@code": "220",
+                "@level": "3",
+                "@name": "10鉄道・電車及び乗合バス",
+                "@parentCode": "210"
+              },
+              {
+                "@code": "230",
+                "@level": "3",
+                "@name": "11鉄道・電車及び勤め先・学校のバス",
+                "@parentCode": "210"
+              },
+              {
+                "@code": "240",
+                "@level": "3",
+                "@name": "12鉄道・電車及び自家用車",
+                "@parentCode": "210"
+              },
+              {
+                "@code": "250",
+                "@level": "3",
+                "@name": "13鉄道・電車及びハイヤー・タクシー",
+                "@parentCode": "210"
+              },
+              {
+                "@code": "260",
+                "@level": "3",
+                "@name": "14鉄道・電車及びオートバイ",
+                "@parentCode": "210"
+              },
+              {
+                "@code": "270",
+                "@level": "3",
+                "@name": "15鉄道・電車及び自転車",
+                "@parentCode": "210"
+              },
+              {
+                "@code": "280",
+                "@level": "3",
+                "@name": "16乗合バス及び勤め先・学校のバス",
+                "@parentCode": "210"
+              },
+              {
+                "@code": "290",
+                "@level": "3",
+                "@name": "17乗合バス及び自家用車",
+                "@parentCode": "210"
+              },
+              {
+                "@code": "300",
+                "@level": "3",
+                "@name": "18乗合バス及びハイヤー・タクシー",
+                "@parentCode": "210"
+              },
+              {
+                "@code": "310",
+                "@level": "3",
+                "@name": "19乗合バス及びオートバイ",
+                "@parentCode": "210"
+              },
+              {
+                "@code": "320",
+                "@level": "3",
+                "@name": "20乗合バス及び自転車",
+                "@parentCode": "210"
+              },
+              {
+                "@code": "330",
+                "@level": "3",
+                "@name": "21その他利用交通手段が２種類",
+                "@parentCode": "210"
+              },
+              {
+                "@code": "340",
+                "@level": "2",
+                "@name": "３利用交通手段が３種類",
+                "@parentCode": "100"
+              },
+              {
+                "@code": "350",
+                "@level": "3",
+                "@name": "22鉄道・電車，乗合バス及び勤め先･学校のバス",
+                "@parentCode": "340"
+              },
+              {
+                "@code": "360",
+                "@level": "3",
+                "@name": "23鉄道・電車，乗合バス及び自家用車",
+                "@parentCode": "340"
+              },
+              {
+                "@code": "370",
+                "@level": "3",
+                "@name": "24鉄道・電車，乗合バス及びハイヤー・タクシー",
+                "@parentCode": "340"
+              },
+              {
+                "@code": "380",
+                "@level": "3",
+                "@name": "25鉄道・電車，乗合バス及びオートバイ",
+                "@parentCode": "340"
+              },
+              {
+                "@code": "390",
+                "@level": "3",
+                "@name": "26鉄道・電車，乗合バス及び自転車",
+                "@parentCode": "340"
+              },
+              {
+                "@code": "400",
+                "@level": "3",
+                "@name": "27鉄道・電車，勤め先・学校のバス及び自家用車",
+                "@parentCode": "340"
+              },
+              {
+                "@code": "410",
+                "@level": "3",
+                "@name": "28鉄道・電車，勤め先・学校のバス及びオートバイ",
+                "@parentCode": "340"
+              },
+              {
+                "@code": "420",
+                "@level": "3",
+                "@name": "29鉄道・電車，勤め先・学校のバス及び自転車",
+                "@parentCode": "340"
+              },
+              {
+                "@code": "430",
+                "@level": "3",
+                "@name": "30その他利用交通手段が３種類",
+                "@parentCode": "340"
+              },
+              {
+                "@code": "440",
+                "@level": "2",
+                "@name": "４利用交通手段が４種類以上",
+                "@parentCode": "100"
+              }
+            ]
+          },
+          {
+            "@id": "time",
+            "@name": "時間軸（調査年）",
+            "CLASS": {
+              "@code": "2000000000",
+              "@level": "1",
+              "@name": "2000年"
+            }
+          }
+        ]
+      },
+      "TABLE_INF": {
+        "@id": "0003389152",
+        "COLLECT_AREA": "該当なし",
+        "CYCLE": "-",
+        "DESCRIPTION": "",
+        "GOV_ORG": {
+          "$": "総務省",
+          "@code": "00200"
+        },
+        "MAIN_CATEGORY": {
+          "$": "人口・世帯",
+          "@code": "02"
+        },
+        "OPEN_DATE": "2020-05-22",
+        "OVERALL_TOTAL_NUMBER": 350,
+        "SMALL_AREA": 0,
+        "STATISTICS_NAME": "平成12年国勢調査 最終報告書日本の人口（平成12年国勢調査の主要結果）",
+        "STATISTICS_NAME_SPEC": {
+          "TABULATION_CATEGORY": "平成12年国勢調査",
+          "TABULATION_SUB_CATEGORY1": "最終報告書日本の人口（平成12年国勢調査の主要結果）"
+        },
+        "STAT_NAME": {
+          "$": "国勢調査",
+          "@code": "00200521"
+        },
+        "SUB_CATEGORY": {
+          "$": "人口",
+          "@code": "01"
+        },
+        "SURVEY_DATE": "200001-200012",
+        "TITLE": {
+          "$": "常住地による利用交通手段（31区分）別15歳以上自宅外就業者・通学者数－全国（平成12年）",
+          "@no": "59"
+        },
+        "TITLE_SPEC": {
+          "TABLE_EXPLANATION": "・利用交通手段の総数は利用交通手段「不詳」を含む。",
+          "TABLE_NAME": "常住地による利用交通手段（31区分）別15歳以上自宅外就業者・通学者数－全国（平成12年）"
+        },
+        "UPDATED_DATE": "2026-05-29"
+      }
+    },
+    "PARAMETER": {
+      "DATA_FORMAT": "J",
+      "LANG": "J",
+      "STATS_DATA_ID": "0003389152"
+    },
+    "RESULT": {
+      "DATE": "2026-09-03T17:16:25.406+09:00",
+      "ERROR_MSG": "正常に終了しました。",
+      "STATUS": 0
+    }
+  }
+}

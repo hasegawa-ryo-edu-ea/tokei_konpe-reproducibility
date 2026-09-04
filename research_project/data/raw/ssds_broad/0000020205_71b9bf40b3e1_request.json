@@ -1,0 +1,14 @@
+{
+  "source": "e-Stat API getStatsData",
+  "retrieved_at": "2026-09-03T17:26:18+09:00",
+  "stats_data_id": "0000020205",
+  "filters": {
+    "statsDataId": "0000020205",
+    "metaGetFlg": "N",
+    "limit": "100000",
+    "cdCat01": "E1101,E1501,E1701,E2101,E2401,E2501,E3101,E3401,E3501,E3901,E3902,E3903,E3904,E3905,E3906,E4101,E4501,E9101,E9102,E9103,E9105,E9106"
+  },
+  "rows": 966833,
+  "pages": 10,
+  "values_file": "research_project\\data\\raw\\ssds_broad\\0000020205_71b9bf40b3e1.jsonl.gz"
+}

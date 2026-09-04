@@ -1,0 +1,15 @@
+{
+  "status": "pass",
+  "existing_code_count": 1910,
+  "ssdse_code_count": 1741,
+  "common_code_count": 1740,
+  "ssdse_only_count": 1,
+  "existing_only_count": 170,
+  "classification_counts": {
+    "common_code": 1740,
+    "designated_city_administrative_ward": 169,
+    "ssdse_only": 1,
+    "other_special_region_or_noncanonical": 1
+  },
+  "classification_rule": "Administrative wards are identified only where the corresponding xx?00 designated-city parent is present in the SSDSE canonical universe; remaining noncanonical codes are retained explicitly as other_special_region_or_noncanonical."
+}

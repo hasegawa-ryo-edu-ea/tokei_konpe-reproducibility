@@ -1,0 +1,22 @@
+{
+  "status": "pass",
+  "implementation": "All checked metrics use position-aligned numpy arrays before Spearman construction.",
+  "checked_models": [
+    "extra_trees",
+    "hist_gbdt",
+    "elastic_net",
+    "xgboost",
+    "catboost"
+  ],
+  "checked_temporal_models": [
+    "persistence",
+    "mean_historical_change",
+    "ridge",
+    "elastic_net",
+    "extra_trees",
+    "delta_ridge",
+    "delta_elastic_net",
+    "delta_extra_trees"
+  ],
+  "errors": []
+}

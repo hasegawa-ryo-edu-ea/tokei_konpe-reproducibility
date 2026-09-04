@@ -1,0 +1,23 @@
+{
+  "downloaded_rows": 52391,
+  "filters": {
+    "cdCat01": "003,012,013,014,015,016"
+  },
+  "notes": [
+    {
+      "$": "当該数値がないもの",
+      "@char": "***"
+    },
+    {
+      "$": "当該数値がないもの",
+      "@char": "-"
+    }
+  ],
+  "pages": 3,
+  "request_id": "cdCat01-003_012_013_014_015_016_f535f3d564",
+  "retrieved_at": "2026-09-03T17:17:42+09:00",
+  "source": "e-Stat API getStatsData",
+  "stats_data_id": "0000033362",
+  "total_number": 52391,
+  "values_file": ".\\research_project\\data\\raw\\census_2000_rail\\values\\0000033362\\cdCat01-003_012_013_014_015_016_f535f3d564.jsonl.gz"
+}

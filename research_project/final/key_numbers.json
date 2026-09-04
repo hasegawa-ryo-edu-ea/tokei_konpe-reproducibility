@@ -1,0 +1,262 @@
+{
+  "n_cross_section_2020": 1740,
+  "n_balanced_2010_2020": 1740,
+  "n_features_ml": 69,
+  "note": "Strict temporal analysis uses a single chronological future-period holdout: fit on 2000->2010 and evaluate on 2010->2020 for the same harmonized municipality cohort. This supports one-period temporal validation, but not generalization across multiple independent periods or unseen municipalities.",
+  "group_cv_sensitivity": [
+    {
+      "model": "extra_trees",
+      "feature_set": "all_features",
+      "split": "random_kfold",
+      "n_features": 69,
+      "rmse": 0.03936528830601701,
+      "mae": 0.024718180738480217,
+      "r2": 0.8530356799129469,
+      "spearman": 0.7645514086472921
+    },
+    {
+      "model": "extra_trees",
+      "feature_set": "all_features",
+      "split": "prefecture_group_kfold",
+      "n_features": 69,
+      "rmse": 0.049357738794391925,
+      "mae": 0.029075221236783313,
+      "r2": 0.7689555463872888,
+      "spearman": 0.7305799344533054
+    },
+    {
+      "model": "extra_trees",
+      "feature_set": "corr_reduced",
+      "split": "random_kfold",
+      "n_features": 21,
+      "rmse": 0.0391541568848256,
+      "mae": 0.0246081058550939,
+      "r2": 0.8546079064783082,
+      "spearman": 0.763905792868683
+    },
+    {
+      "model": "extra_trees",
+      "feature_set": "corr_reduced",
+      "split": "prefecture_group_kfold",
+      "n_features": 21,
+      "rmse": 0.04915652788744793,
+      "mae": 0.02903843255362153,
+      "r2": 0.7708354504406689,
+      "spearman": 0.7293616276995721
+    },
+    {
+      "model": "hist_gbdt",
+      "feature_set": "all_features",
+      "split": "random_kfold",
+      "n_features": 69,
+      "rmse": 0.03879509986792265,
+      "mae": 0.02464531865271451,
+      "r2": 0.8572622702040563,
+      "spearman": 0.7551969822422642
+    },
+    {
+      "model": "hist_gbdt",
+      "feature_set": "all_features",
+      "split": "prefecture_group_kfold",
+      "n_features": 69,
+      "rmse": 0.046838829758429096,
+      "mae": 0.028388479430221825,
+      "r2": 0.7919359208724408,
+      "spearman": 0.7130081103908058
+    },
+    {
+      "model": "hist_gbdt",
+      "feature_set": "corr_reduced",
+      "split": "random_kfold",
+      "n_features": 21,
+      "rmse": 0.038934319854442935,
+      "mae": 0.025104019149348407,
+      "r2": 0.8562359755901175,
+      "spearman": 0.7409325833866272
+    },
+    {
+      "model": "hist_gbdt",
+      "feature_set": "corr_reduced",
+      "split": "prefecture_group_kfold",
+      "n_features": 21,
+      "rmse": 0.04798897393187887,
+      "mae": 0.029245265733141318,
+      "r2": 0.7815922900311681,
+      "spearman": 0.6941165497801184
+    },
+    {
+      "model": "elastic_net",
+      "feature_set": "all_features",
+      "split": "random_kfold",
+      "n_features": 69,
+      "rmse": 0.04701408533690055,
+      "mae": 0.030846407602926562,
+      "r2": 0.7903759925119149,
+      "spearman": 0.7106992619317677
+    },
+    {
+      "model": "elastic_net",
+      "feature_set": "all_features",
+      "split": "prefecture_group_kfold",
+      "n_features": 69,
+      "rmse": 0.04894985325045056,
+      "mae": 0.03215341564297947,
+      "r2": 0.7727584070133862,
+      "spearman": 0.6758042679444421
+    },
+    {
+      "model": "elastic_net",
+      "feature_set": "corr_reduced",
+      "split": "random_kfold",
+      "n_features": 21,
+      "rmse": 0.04743961774765514,
+      "mae": 0.031163504111195305,
+      "r2": 0.7865641348985314,
+      "spearman": 0.7074923348422665
+    },
+    {
+      "model": "elastic_net",
+      "feature_set": "corr_reduced",
+      "split": "prefecture_group_kfold",
+      "n_features": 21,
+      "rmse": 0.049241267886034334,
+      "mae": 0.03231106568762932,
+      "r2": 0.770044664646379,
+      "spearman": 0.6768983746244437
+    },
+    {
+      "model": "extra_trees",
+      "feature_set": "all_features",
+      "split": "prefecture_group_kfold",
+      "n_features": 69,
+      "rmse": 0.04935773879439193,
+      "mae": 0.029075221236783313,
+      "r2": 0.7689555463872888,
+      "spearman": 0.7305799344533054,
+      "sensitivity_axis": "imputation",
+      "imputation_strategy": "median"
+    },
+    {
+      "model": "extra_trees",
+      "feature_set": "all_features",
+      "split": "prefecture_group_kfold",
+      "n_features": 69,
+      "rmse": 0.04911279864643178,
+      "mae": 0.02900307860764409,
+      "r2": 0.7712429948652163,
+      "spearman": 0.7308343346923668,
+      "sensitivity_axis": "imputation",
+      "imputation_strategy": "mean"
+    }
+  ],
+  "strict_three_wave_cohort_n": 1445,
+  "longitudinal": {
+    "strict_exact_code_cohort_n": 1445,
+    "temporal_validation": {
+      "train_transition": "2000->2010",
+      "test_transition": "2010->2020",
+      "features": [
+        "population_total",
+        "aging_share_65plus",
+        "working_age_share_15_64",
+        "rail_t"
+      ],
+      "models": "Ridge and Elastic Net; median imputation/scaling fit on 2000 train only",
+      "metrics": {
+        "rmse": 0.053646871993311446,
+        "mae": 0.050890709646866004,
+        "r2": 0.8707862527405614,
+        "spearman": 0.9806429664884816
+      },
+      "n_train": 1445,
+      "n_test": 1316,
+      "caveat": "2000 age totals and 2010 SSDS age variables are definition-audited but are a compact common predictor set; 2020 socioeconomic fields are never used."
+    },
+    "change_score_n": 1740,
+    "first_difference_n": 1740
+  },
+  "cross_section_universe": {
+    "name": "SSDSE-A-2026 canonical municipalities with observed 2020 railway target",
+    "n": 1740
+  },
+  "balanced_panel_universe": {
+    "name": "canonical-code intersection with observed 2010 and 2020 SSDS outcome",
+    "n": 1740
+  },
+  "strict_temporal_universe": {
+    "name": "2000/2010/2020 exact-code historical cohort",
+    "n": 1445
+  },
+  "canonical_oof_metrics": [
+    {
+      "model": "extra_trees",
+      "split": "prefecture_group_kfold",
+      "n": 1740,
+      "rmse": 0.0493577387943919,
+      "mae": 0.0290752212367833,
+      "r2": 0.7689555463872888,
+      "spearman": 0.7305799344533054,
+      "mean_bias": -0.0018775435470548,
+      "observed_mean": 0.0656259168002142,
+      "predicted_mean": 0.0637483732531594,
+      "observed_sd": 0.1027146320540012,
+      "predicted_sd": 0.0794932702218218
+    },
+    {
+      "model": "hist_gbdt",
+      "split": "prefecture_group_kfold",
+      "n": 1740,
+      "rmse": 0.046838829758429,
+      "mae": 0.0283884794302218,
+      "r2": 0.7919359208724408,
+      "spearman": 0.7130081103908058,
+      "mean_bias": -0.0014309275588553,
+      "observed_mean": 0.0656259168002142,
+      "predicted_mean": 0.0641949892413589,
+      "observed_sd": 0.1027146320540012,
+      "predicted_sd": 0.0868003407440124
+    },
+    {
+      "model": "elastic_net",
+      "split": "prefecture_group_kfold",
+      "n": 1740,
+      "rmse": 0.0489498532504505,
+      "mae": 0.0321534156429794,
+      "r2": 0.7727584070133862,
+      "spearman": 0.6758042679444421,
+      "mean_bias": 0.0015959457980484,
+      "observed_mean": 0.0656259168002142,
+      "predicted_mean": 0.0672218625982626,
+      "observed_sd": 0.1027146320540012,
+      "predicted_sd": 0.0933584487276738
+    },
+    {
+      "model": "xgboost",
+      "split": "prefecture_group_kfold",
+      "n": 1740,
+      "rmse": 0.0457338425143354,
+      "mae": 0.0275681205610759,
+      "r2": 0.8016371129166563,
+      "spearman": 0.7298400302193305,
+      "mean_bias": -0.0030989033153563,
+      "observed_mean": 0.0656259168002142,
+      "predicted_mean": 0.0625270134848579,
+      "observed_sd": 0.1027146320540012,
+      "predicted_sd": 0.0834797730874319
+    },
+    {
+      "model": "catboost",
+      "split": "prefecture_group_kfold",
+      "n": 1740,
+      "rmse": 0.0486362604615556,
+      "mae": 0.0284908269982552,
+      "r2": 0.7756606857978143,
+      "spearman": 0.7314645185725203,
+      "mean_bias": -0.0027699867683915,
+      "observed_mean": 0.0656259168002142,
+      "predicted_mean": 0.0628559300318227,
+      "observed_sd": 0.1027146320540012,
+      "predicted_sd": 0.0810595669547376
+    }
+  ]
+}

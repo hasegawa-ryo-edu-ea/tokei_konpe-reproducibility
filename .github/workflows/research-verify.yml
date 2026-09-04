@@ -1,0 +1,42 @@
+name: Reproducibility verification
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "research_project/**"
+      - ".github/workflows/research-verify.yml"
+  pull_request:
+    branches: [main]
+    paths:
+      - "research_project/**"
+      - ".github/workflows/research-verify.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: research_project/requirements.txt
+
+      - name: Install dependencies
+        run: python -m pip install -r research_project/requirements.txt
+
+      - name: Rebuild all research artifacts
+        working-directory: research_project
+        run: python scripts/run_all.py
+
+      - name: Verify artifacts
+        working-directory: research_project
+        run: python scripts/verify_artifacts.py

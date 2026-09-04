@@ -1,0 +1,16 @@
+{
+  "source": "e-Stat API getStatsData",
+  "retrieved_at": "2026-09-03T18:44:22+09:00",
+  "stats_data_id": "0000033332",
+  "filters": {
+    "statsDataId": "0000033332",
+    "metaGetFlg": "N",
+    "limit": "100000",
+    "cdCat01": "000",
+    "cdCat02": "415,565",
+    "cdCat03": "000"
+  },
+  "rows": 6856,
+  "pages": 1,
+  "values_file": "data\\raw\\census_2000_ses_age\\0000033332_010da4df563c.jsonl.gz"
+}

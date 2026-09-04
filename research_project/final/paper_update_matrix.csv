@@ -1,0 +1,12 @@
+paper_item,old_value_or_claim,new_value_or_claim,source_artifact,mandatory_change,reason
+"全国1,910市区町村","1,910 municipalities",1740,qa/ssdse_municipality_universe_summary.json,True,Canonical SSDSE municipality universe and observed target exclusion
+"2020横断1,910","N=1,910",1740,final/key_numbers.json,True,Regenerated canonical analysis frame
+"均衡1,906","N=1,906",1740,final/key_numbers.json,True,Canonical-code 2010/2020 intersection
+41特徴量,41,69,qa/model_feature_provenance_audit.csv,True,Expanded model now has fully audited features
+旧GroupKFold指標,legacy values,Use regenerated OOF model comparison,analysis/robustness/oof_model_metrics.csv,True,Canonical outcome universe
+旧重要度順位,legacy ranking,Use regenerated top-10 permutation ranking,analysis/interpretation/oof_permutation_importance.csv,True,Canonical model rerun
+旧fractional logit係数,legacy coefficients,Use regenerated municipality-equal coefficients,analysis/bounded/fractional_logit_coefficients.csv,True,Canonical analysis frame
+旧bootstrap CI,legacy intervals,Use regenerated prefecture-cluster bootstrap intervals,analysis/bootstrap/bootstrap_summary.csv,True,Canonical analysis frame
+旧temporal N,legacy temporal N,strict=1445; train=1445; test=1316,final/key_numbers.json,True,Strict cohort and evaluable holdout rows differ
+旧temporal metrics,legacy metrics,Use regenerated temporal validation table,analysis/temporal/temporal_validation_enhanced.csv,True,Retained exact-code historical panel
+高齢化率の「頑健な負」主張,robust negative,point_estimate_negative_but_bootstrap_uncertain,analysis/bootstrap/bootstrap_summary.csv,True,Bootstrap CI must determine robustness wording

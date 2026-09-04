@@ -1,0 +1,1 @@
+Primary importance is fold-separated held-out permutation importance (5-fold). PDP and ALE are descriptive full-2020-model diagnostics, not causal effects. SHAP import was attempted but did not return in this Python environment; no SHAP values are reported.

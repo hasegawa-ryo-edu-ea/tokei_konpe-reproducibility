@@ -1,0 +1,11 @@
+# Python caches and local environment files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+**/.env
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp

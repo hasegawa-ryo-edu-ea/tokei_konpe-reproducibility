@@ -1,0 +1,23 @@
+{
+  "downloaded_rows": 19690,
+  "filters": {
+    "cdCat01": "000"
+  },
+  "notes": [
+    {
+      "$": "当該数値がないもの",
+      "@char": "***"
+    },
+    {
+      "$": "当該数値がないもの",
+      "@char": "-"
+    }
+  ],
+  "pages": 1,
+  "request_id": "cdCat01-000_8f285b15bd",
+  "retrieved_at": "2026-09-03T17:19:43+09:00",
+  "source": "e-Stat API getStatsData",
+  "stats_data_id": "0003063775",
+  "total_number": 19690,
+  "values_file": ".\\research_project\\data\\raw\\census_2010_total\\values\\0003063775\\cdCat01-000_8f285b15bd.jsonl.gz"
+}

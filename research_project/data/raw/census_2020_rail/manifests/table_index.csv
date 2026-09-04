@@ -1,0 +1,2 @@
+stats_data_id,stat_code,stat_name,gov_org_code,gov_org,statistics_name,title_no,title,cycle,survey_date,open_date,updated_date,main_category_code,main_category,sub_category_code,sub_category,overall_total_number,collect_area,small_area,description
+0003454514,00200521,国勢調査,00200,総務省,令和２年国勢調査 従業地・通学地による人口・就業状態等集計　（主な内容：従業地・通学地による人口，昼夜間人口など）,18,利用交通手段 利用交通手段，常住地又は従業地・通学地別通勤者・通学者数（15歳以上）－全国，都道府県，市区町村,-,202010,2022-07-22,2026-05-29,02,人口・世帯,01,人口,410685,全国,0,

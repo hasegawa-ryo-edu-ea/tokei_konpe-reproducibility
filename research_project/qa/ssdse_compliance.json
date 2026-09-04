@@ -1,0 +1,466 @@
+{
+  "status": "pass",
+  "dataset_name": "SSDSE-市区町村（SSDSE-A）",
+  "dataset_version": "SSDSE-A-2026",
+  "official_source": "https://www.nstac.go.jp/files/SSDSE-A-2026.csv",
+  "raw_sha256": "1968d5c03de4db24c1ad7df20d06e7cb04bc46cb99a862364192d8d51c196409",
+  "municipality_count_raw": 1741,
+  "municipality_count_analysis": 1740,
+  "municipality_count_balanced": 1740,
+  "ssdse_features_used": [
+    "A1101",
+    "A1301",
+    "A1302",
+    "A1303",
+    "A1419",
+    "A1700",
+    "A7101",
+    "A710101",
+    "A810105",
+    "A8301",
+    "F1102",
+    "F1107",
+    "F1108",
+    "F2201",
+    "F2211",
+    "F2221"
+  ],
+  "derived_ssdse_features_used": [
+    "log_population",
+    "aging_share_65plus",
+    "share_75plus",
+    "youth_share_0_14",
+    "working_age_share_15_64",
+    "foreign_population_share",
+    "single_household_share",
+    "elderly_single_household_share",
+    "unemployment_rate",
+    "non_labor_force_share",
+    "primary_industry_share",
+    "secondary_industry_share",
+    "tertiary_industry_share"
+  ],
+  "models_using_ssdse": [
+    "SSDSE-A Core",
+    "SSDSE-A + e-Stat SSDS Expanded"
+  ],
+  "future_leakage": {
+    "status": "pass",
+    "dataset": "SSDSE-A-2026",
+    "main_analysis_reference_year_rule": "reference_year <= 2020",
+    "ssdse_item_count": 125,
+    "time_safe_feature_count": 41,
+    "raw_future_feature_count": 0,
+    "derived_future_feature_count": 0,
+    "future_feature_count": 0,
+    "future_source_item_count": 84,
+    "future_source_items": [
+      "A4101",
+      "A4200",
+      "A5101",
+      "A5102",
+      "A9101",
+      "A9201",
+      "B1101",
+      "B1103",
+      "C2108",
+      "C210832",
+      "C210833",
+      "C210835",
+      "C210836",
+      "C210837",
+      "C210838",
+      "C210839",
+      "C210840",
+      "C210841",
+      "C210844",
+      "C210845",
+      "C210846",
+      "C210847",
+      "C210848",
+      "C210849",
+      "C210850",
+      "C210851",
+      "C210852",
+      "C2208",
+      "C220832",
+      "C220833",
+      "C220835",
+      "C220836",
+      "C220837",
+      "C220838",
+      "C220839",
+      "C220840",
+      "C220841",
+      "C220844",
+      "C220845",
+      "C220846",
+      "C220847",
+      "C220848",
+      "C220849",
+      "C220850",
+      "C220851",
+      "C220852",
+      "D1202",
+      "D2203",
+      "D2211",
+      "D3201",
+      "D320101",
+      "D3203",
+      "D320303",
+      "D320308",
+      "D320310",
+      "D320311",
+      "E1101",
+      "E1501",
+      "E2101",
+      "E2401",
+      "E2501",
+      "E3101",
+      "E3401",
+      "E3501",
+      "E3901",
+      "E3904",
+      "E3905",
+      "E3906",
+      "E4101",
+      "E4501",
+      "G1201",
+      "G1401",
+      "H5507",
+      "H550701",
+      "H6130",
+      "H6131",
+      "H6132",
+      "I510120",
+      "I5102",
+      "I5103",
+      "I6100",
+      "I6200",
+      "I6300",
+      "J250302"
+    ],
+    "derived_feature_lineage": [
+      {
+        "derived_feature": "log_population",
+        "source_features": [
+          "A1101"
+        ],
+        "source_reference_years": [
+          2020
+        ],
+        "max_source_reference_year": 2020,
+        "target_year": 2020,
+        "temporal_safe": true,
+        "formula": "log1p(A1101)",
+        "status": "pass"
+      },
+      {
+        "derived_feature": "aging_share_65plus",
+        "source_features": [
+          "A1303",
+          "A1101"
+        ],
+        "source_reference_years": [
+          2020,
+          2020
+        ],
+        "max_source_reference_year": 2020,
+        "target_year": 2020,
+        "temporal_safe": true,
+        "formula": "A1303 / A1101",
+        "status": "pass"
+      },
+      {
+        "derived_feature": "share_75plus",
+        "source_features": [
+          "A1419",
+          "A1101"
+        ],
+        "source_reference_years": [
+          2020,
+          2020
+        ],
+        "max_source_reference_year": 2020,
+        "target_year": 2020,
+        "temporal_safe": true,
+        "formula": "A1419 / A1101",
+        "status": "pass"
+      },
+      {
+        "derived_feature": "youth_share_0_14",
+        "source_features": [
+          "A1301",
+          "A1101"
+        ],
+        "source_reference_years": [
+          2020,
+          2020
+        ],
+        "max_source_reference_year": 2020,
+        "target_year": 2020,
+        "temporal_safe": true,
+        "formula": "A1301 / A1101",
+        "status": "pass"
+      },
+      {
+        "derived_feature": "working_age_share_15_64",
+        "source_features": [
+          "A1302",
+          "A1101"
+        ],
+        "source_reference_years": [
+          2020,
+          2020
+        ],
+        "max_source_reference_year": 2020,
+        "target_year": 2020,
+        "temporal_safe": true,
+        "formula": "A1302 / A1101",
+        "status": "pass"
+      },
+      {
+        "derived_feature": "foreign_population_share",
+        "source_features": [
+          "A1700",
+          "A1101"
+        ],
+        "source_reference_years": [
+          2020,
+          2020
+        ],
+        "max_source_reference_year": 2020,
+        "target_year": 2020,
+        "temporal_safe": true,
+        "formula": "A1700 / A1101",
+        "status": "pass"
+      },
+      {
+        "derived_feature": "single_household_share",
+        "source_features": [
+          "A810105",
+          "A710101"
+        ],
+        "source_reference_years": [
+          2020,
+          2020
+        ],
+        "max_source_reference_year": 2020,
+        "target_year": 2020,
+        "temporal_safe": true,
+        "formula": "A810105 / A710101",
+        "status": "pass"
+      },
+      {
+        "derived_feature": "elderly_single_household_share",
+        "source_features": [
+          "A8301",
+          "A710101"
+        ],
+        "source_reference_years": [
+          2020,
+          2020
+        ],
+        "max_source_reference_year": 2020,
+        "target_year": 2020,
+        "temporal_safe": true,
+        "formula": "A8301 / A710101",
+        "status": "pass"
+      },
+      {
+        "derived_feature": "unemployment_rate",
+        "source_features": [
+          "F1107",
+          "F1102"
+        ],
+        "source_reference_years": [
+          2020,
+          2020
+        ],
+        "max_source_reference_year": 2020,
+        "target_year": 2020,
+        "temporal_safe": true,
+        "formula": "F1107 / (F1102 + F1107)",
+        "status": "pass"
+      },
+      {
+        "derived_feature": "non_labor_force_share",
+        "source_features": [
+          "F1108",
+          "F1102",
+          "F1107"
+        ],
+        "source_reference_years": [
+          2020,
+          2020,
+          2020
+        ],
+        "max_source_reference_year": 2020,
+        "target_year": 2020,
+        "temporal_safe": true,
+        "formula": "F1108 / (F1102 + F1107 + F1108)",
+        "status": "pass"
+      },
+      {
+        "derived_feature": "primary_industry_share",
+        "source_features": [
+          "F2201",
+          "F2211",
+          "F2221"
+        ],
+        "source_reference_years": [
+          2020,
+          2020,
+          2020
+        ],
+        "max_source_reference_year": 2020,
+        "target_year": 2020,
+        "temporal_safe": true,
+        "formula": "F2201 / (F2201 + F2211 + F2221)",
+        "status": "pass"
+      },
+      {
+        "derived_feature": "secondary_industry_share",
+        "source_features": [
+          "F2201",
+          "F2211",
+          "F2221"
+        ],
+        "source_reference_years": [
+          2020,
+          2020,
+          2020
+        ],
+        "max_source_reference_year": 2020,
+        "target_year": 2020,
+        "temporal_safe": true,
+        "formula": "F2211 / (F2201 + F2211 + F2221)",
+        "status": "pass"
+      },
+      {
+        "derived_feature": "tertiary_industry_share",
+        "source_features": [
+          "F2201",
+          "F2211",
+          "F2221"
+        ],
+        "source_reference_years": [
+          2020,
+          2020,
+          2020
+        ],
+        "max_source_reference_year": 2020,
+        "target_year": 2020,
+        "temporal_safe": true,
+        "formula": "F2221 / (F2201 + F2211 + F2221)",
+        "status": "pass"
+      }
+    ],
+    "core_features": [
+      "A1101",
+      "A1301",
+      "A1302",
+      "A1303",
+      "A1419",
+      "A1700",
+      "A7101",
+      "A710101",
+      "A810105",
+      "A8301",
+      "F1102",
+      "F1107",
+      "F1108",
+      "F2201",
+      "F2211",
+      "F2221",
+      "log_population",
+      "aging_share_65plus",
+      "share_75plus",
+      "youth_share_0_14",
+      "working_age_share_15_64",
+      "foreign_population_share",
+      "single_household_share",
+      "elderly_single_household_share",
+      "unemployment_rate",
+      "non_labor_force_share",
+      "primary_industry_share",
+      "secondary_industry_share",
+      "tertiary_industry_share"
+    ],
+    "expanded_features": [
+      "A1101",
+      "A1301",
+      "A1302",
+      "A1303",
+      "A1419",
+      "A1700",
+      "A7101",
+      "A710101",
+      "A810105",
+      "A8301",
+      "F1102",
+      "F1107",
+      "F1108",
+      "F2201",
+      "F2211",
+      "F2221",
+      "log_population",
+      "aging_share_65plus",
+      "share_75plus",
+      "youth_share_0_14",
+      "working_age_share_15_64",
+      "foreign_population_share",
+      "single_household_share",
+      "elderly_single_household_share",
+      "unemployment_rate",
+      "non_labor_force_share",
+      "primary_industry_share",
+      "secondary_industry_share",
+      "tertiary_industry_share",
+      "A141902",
+      "A130301",
+      "A710201",
+      "F110202",
+      "F110801",
+      "A141901",
+      "A130101",
+      "A130201",
+      "C310202",
+      "A8201",
+      "A110202",
+      "F110702",
+      "A1102",
+      "A110101",
+      "F110701",
+      "A130202",
+      "C310201",
+      "F110802",
+      "A110102",
+      "A110201",
+      "A130102",
+      "A130302",
+      "F110201",
+      "A810102",
+      "A811102",
+      "A1401",
+      "A1402",
+      "B1104",
+      "C120110",
+      "C120120",
+      "D2201",
+      "D2202",
+      "E9106",
+      "F1101",
+      "F1301",
+      "F1307",
+      "F1311",
+      "I5101",
+      "I5211",
+      "population_density"
+    ],
+    "pass_condition": "raw_future_feature_count == 0 and derived_future_feature_count == 0 and all model features have recorded provenance"
+  },
+  "canonical_universe_verified": true,
+  "estat_crosscheck_status": "pass",
+  "outcome_missing_exclusions": 1
+}

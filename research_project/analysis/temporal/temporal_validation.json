@@ -1,0 +1,25 @@
+{
+  "strict_exact_code_cohort_n": 1445,
+  "temporal_validation": {
+    "train_transition": "2000->2010",
+    "test_transition": "2010->2020",
+    "features": [
+      "population_total",
+      "aging_share_65plus",
+      "working_age_share_15_64",
+      "rail_t"
+    ],
+    "models": "Ridge and Elastic Net; median imputation/scaling fit on 2000 train only",
+    "metrics": {
+      "rmse": 0.053646871993311446,
+      "mae": 0.050890709646866004,
+      "r2": 0.8707862527405614,
+      "spearman": 0.9806429664884816
+    },
+    "n_train": 1445,
+    "n_test": 1316,
+    "caveat": "2000 age totals and 2010 SSDS age variables are definition-audited but are a compact common predictor set; 2020 socioeconomic fields are never used."
+  },
+  "change_score_n": 1740,
+  "first_difference_n": 1740
+}

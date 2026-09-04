@@ -1,0 +1,27 @@
+{
+  "downloaded_rows": 3826,
+  "filters": {
+    "cdCat01": "H730102"
+  },
+  "notes": [
+    {
+      "$": "調査又は集計していないもの",
+      "@char": "***"
+    },
+    {
+      "$": "データが得られないもの",
+      "@char": "-"
+    },
+    {
+      "$": "数値が秘匿されているもの",
+      "@char": "X"
+    }
+  ],
+  "pages": 1,
+  "request_id": "cdCat01-H730102_77bc0b6d8c",
+  "retrieved_at": "2026-09-03T17:13:26+09:00",
+  "source": "e-Stat API getStatsData",
+  "stats_data_id": "0000020208",
+  "total_number": 3826,
+  "values_file": ".\\research_project\\data\\raw\\estat_target_h730\\values\\0000020208\\cdCat01-H730102_77bc0b6d8c.jsonl.gz"
+}

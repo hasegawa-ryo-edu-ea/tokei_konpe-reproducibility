@@ -1,0 +1,24 @@
+﻿feature,ssdse_reference_year,estat_reference_year,comparison_status,n_compared,exact_match_rate,max_absolute_difference,mismatch_count,reason,mismatch_codes
+A1101,2020,2020,comparable_pass,1740,1.0,0.0,0,Same item code and 2020 reference year.,[]
+A1102,2020,2020,comparable_pass,1740,1.0,0.0,0,Same item code and 2020 reference year.,[]
+A1301,2020,2020,comparable_pass,1740,1.0,0.0,0,Same item code and 2020 reference year.,[]
+A1302,2020,2020,comparable_pass,1740,1.0,0.0,0,Same item code and 2020 reference year.,[]
+A1303,2020,2020,comparable_pass,1740,1.0,0.0,0,Same item code and 2020 reference year.,[]
+B1101,2024,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+B1103,2024,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+D2203,2022,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+D2211,2022,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+D3201,2022,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+D320101,2022,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+E2101,2024,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+E2501,2024,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+E3101,2024,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+E3501,2024,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+E4101,2024,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+E4501,2024,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+F1102,2020,2020,comparable_pass,1740,1.0,0.0,0,Same item code and 2020 reference year.,[]
+F1107,2020,2020,comparable_pass,1740,1.0,0.0,0,Same item code and 2020 reference year.,[]
+F1108,2020,2020,comparable_pass,1740,1.0,0.0,0,Same item code and 2020 reference year.,[]
+I5102,2023,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+I5103,2023,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,
+I6100,2022,2020,not_comparable_year,0,,,0,Saved e-Stat panel is a 2020 observation; identical item code alone does not establish same reference year.,

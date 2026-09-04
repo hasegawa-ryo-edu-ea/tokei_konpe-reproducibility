@@ -1,0 +1,15 @@
+{
+  "dataset_name": "SSDSE-市区町村（SSDSE-A）",
+  "dataset_version": "SSDSE-A-2026",
+  "official_source_url": "https://www.nstac.go.jp/files/SSDSE-A-2026.csv",
+  "landing_page_url": "https://www.nstac.go.jp/use/literacy/ssdse/",
+  "retrieved_at": "2026-09-03T22:46:49.119487+00:00",
+  "raw_file": "data/raw/ssdse_a_2026/SSDSE-A-2026.csv",
+  "raw_sha256": "1968d5c03de4db24c1ad7df20d06e7cb04bc46cb99a862364192d8d51c196409",
+  "raw_file_size_bytes": 938621,
+  "explanation_file": "data/raw/ssdse_a_2026/kaisetsu-A-2026.pdf",
+  "explanation_sha256": "052f09a0ae927fc33ae286bc29c4e12243c17d50075c63ba93aed43c057ab6a6",
+  "municipality_count": 1741,
+  "item_count": 125,
+  "layout": "3 metadata rows + 1741 municipal rows; 3 geography columns + 125 item columns"
+}

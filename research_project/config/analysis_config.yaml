@@ -1,0 +1,12 @@
+target: rail_any_share
+target_definition: H730102 / H7301 in SSDS 2010/2020; direct Census historical definitions documented in qa/source_qa.md
+primary_cross_section_year: 2020
+panel_years: [2010, 2020]
+strict_exact_code_years: [2000, 2010, 2020]
+cross_validation:
+  random: KFold(5, shuffle=True, random_state=2026)
+  geographic: GroupKFold(5, prefecture_code)
+temporal_validation:
+  train_transition: 2000_to_2010
+  test_transition: 2010_to_2020
+  no_future_features: true

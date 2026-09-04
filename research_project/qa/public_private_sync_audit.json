@@ -1,0 +1,127 @@
+{
+  "status": "pass",
+  "file_count": 20,
+  "mismatch_count": 0,
+  "files": [
+    {
+      "path": "data/raw/ssdse_a_2026/SSDSE-A-2026.csv",
+      "private_sha256": "1968d5c03de4db24c1ad7df20d06e7cb04bc46cb99a862364192d8d51c196409",
+      "public_sha256": "1968d5c03de4db24c1ad7df20d06e7cb04bc46cb99a862364192d8d51c196409",
+      "match": true
+    },
+    {
+      "path": "data/raw/ssdse_a_2026/source_metadata.json",
+      "private_sha256": "254007528cb9d6f1a7e62258269a4c9e9289893b40cbfa53a94ecc39529f19a3",
+      "public_sha256": "254007528cb9d6f1a7e62258269a4c9e9289893b40cbfa53a94ecc39529f19a3",
+      "match": true
+    },
+    {
+      "path": "data/raw/ssdse_a_2026/retrieval_record.json",
+      "private_sha256": "f17b52fdb55bbf4dbd0ad8f0522f5daff3a6a4205514719e027a874c76661688",
+      "public_sha256": "f17b52fdb55bbf4dbd0ad8f0522f5daff3a6a4205514719e027a874c76661688",
+      "match": true
+    },
+    {
+      "path": "requirements.txt",
+      "private_sha256": "6ebb78392ee87d9270b49ed423cb11f35ecf99b3f9883c1550993fbecc817f08",
+      "public_sha256": "6ebb78392ee87d9270b49ed423cb11f35ecf99b3f9883c1550993fbecc817f08",
+      "match": true
+    },
+    {
+      "path": "scripts/ssdse_integration.py",
+      "private_sha256": "d1e38fa90d1468ab6250e7968055ac5aa6dcc9f04ee72de54311a77083825414",
+      "public_sha256": "d1e38fa90d1468ab6250e7968055ac5aa6dcc9f04ee72de54311a77083825414",
+      "match": true
+    },
+    {
+      "path": "scripts/run_all.py",
+      "private_sha256": "9c0e739207847f65df1698cb33eda82e8c3d5819da2d7f52badcf5ac523abb71",
+      "public_sha256": "9c0e739207847f65df1698cb33eda82e8c3d5819da2d7f52badcf5ac523abb71",
+      "match": true
+    },
+    {
+      "path": "scripts/verify_artifacts.py",
+      "private_sha256": "b4fcefb54913d7e37d3dd3f47acb7b7127d3f687a517f7adf7f16424207308b6",
+      "public_sha256": "b4fcefb54913d7e37d3dd3f47acb7b7127d3f687a517f7adf7f16424207308b6",
+      "match": true
+    },
+    {
+      "path": "scripts/semantic_audit.py",
+      "private_sha256": "b1dd4164873391406dd1f377f6183f505c790a8732778fee25828c15722bbd81",
+      "public_sha256": "b1dd4164873391406dd1f377f6183f505c790a8732778fee25828c15722bbd81",
+      "match": true
+    },
+    {
+      "path": "scripts/audit_model_feature_provenance.py",
+      "private_sha256": "4695a444d3c8c22aad80b3ce583408666035e71368a0c4f2d77df9d744e215be",
+      "public_sha256": "4695a444d3c8c22aad80b3ce583408666035e71368a0c4f2d77df9d744e215be",
+      "match": true
+    },
+    {
+      "path": "scripts/build_ssdse_migration_report.py",
+      "private_sha256": "6b5edac4415c72eef2302111969e15fc677b02772abd574438fe588cbd73e32a",
+      "public_sha256": "6b5edac4415c72eef2302111969e15fc677b02772abd574438fe588cbd73e32a",
+      "match": true
+    },
+    {
+      "path": "qa/ssdse_compliance.json",
+      "private_sha256": "823d9483930530373cc606da42bd577f2a6eb60bc9e74a7d039e29840de42463",
+      "public_sha256": "823d9483930530373cc606da42bd577f2a6eb60bc9e74a7d039e29840de42463",
+      "match": true
+    },
+    {
+      "path": "qa/ssdse_temporal_leakage.json",
+      "private_sha256": "2dc8aeb63bbeee017b4a43fbb23368dd9364ae6df076ad85aa5fbdb549e6ed24",
+      "public_sha256": "2dc8aeb63bbeee017b4a43fbb23368dd9364ae6df076ad85aa5fbdb549e6ed24",
+      "match": true
+    },
+    {
+      "path": "qa/model_feature_provenance_audit.json",
+      "private_sha256": "7dcae8d33fc185dd4c5dce6ee0996f705b29586de5e73bf74ac7cfddbcb3c90f",
+      "public_sha256": "7dcae8d33fc185dd4c5dce6ee0996f705b29586de5e73bf74ac7cfddbcb3c90f",
+      "match": true
+    },
+    {
+      "path": "qa/feature_semantic_audit.json",
+      "private_sha256": "a41bfacdc414ca5c334ce96b760662bbc953e766b5b5ce47e45d9a2b63f380b4",
+      "public_sha256": "a41bfacdc414ca5c334ce96b760662bbc953e766b5b5ce47e45d9a2b63f380b4",
+      "match": true
+    },
+    {
+      "path": "tables/ssdse_core_vs_expanded.csv",
+      "private_sha256": "fd981152cd479f78f321c3b7eac87021f8ff993732e854c66ebe84509c8ed896",
+      "public_sha256": "fd981152cd479f78f321c3b7eac87021f8ff993732e854c66ebe84509c8ed896",
+      "match": true
+    },
+    {
+      "path": "final/key_numbers.json",
+      "private_sha256": "3237c84d9427429177b7d463081aabf83279bb6d76e9a179fae49103b1db7d7c",
+      "public_sha256": "3237c84d9427429177b7d463081aabf83279bb6d76e9a179fae49103b1db7d7c",
+      "match": true
+    },
+    {
+      "path": "final/SSDSE_MIGRATION_REPORT.md",
+      "private_sha256": "565448cbf88d165e17998f48734ae7cad5968e9282ceb5c00624d9b68a6aef61",
+      "public_sha256": "565448cbf88d165e17998f48734ae7cad5968e9282ceb5c00624d9b68a6aef61",
+      "match": true
+    },
+    {
+      "path": "final/paper_update_matrix.csv",
+      "private_sha256": "42c53ddb93e7a3baee7e8348c152ba3cebae9ca8b2f8bd42f674d79756869737",
+      "public_sha256": "42c53ddb93e7a3baee7e8348c152ba3cebae9ca8b2f8bd42f674d79756869737",
+      "match": true
+    },
+    {
+      "path": "final/paper_update_facts.json",
+      "private_sha256": "42acd0188f7137f7ea1ba4e29bc48353c4284de0c9ed22bae0986d399915934a",
+      "public_sha256": "42acd0188f7137f7ea1ba4e29bc48353c4284de0c9ed22bae0986d399915934a",
+      "match": true
+    },
+    {
+      "path": "qa/final_verification.json",
+      "private_sha256": "5810347506d1b9ecc57f18503b60e526a9c0c8c5c08b76cf44bd23ef764e182b",
+      "public_sha256": "5810347506d1b9ecc57f18503b60e526a9c0c8c5c08b76cf44bd23ef764e182b",
+      "match": true
+    }
+  ]
+}

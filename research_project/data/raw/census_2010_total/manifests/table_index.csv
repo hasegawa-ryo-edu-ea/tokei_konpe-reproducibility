@@ -1,0 +1,2 @@
+stats_data_id,stat_code,stat_name,gov_org_code,gov_org,statistics_name,title_no,title,cycle,survey_date,open_date,updated_date,main_category_code,main_category,sub_category_code,sub_category,overall_total_number,collect_area,small_area,description
+0003063775,00200521,国勢調査,00200,総務省,平成22年国勢調査 従業地・通学地による人口・産業等集計（人口の男女，年齢，就業者の産業（大分類）),01120,常住地又は従業地・通学地による利用交通手段(16区分)別15歳以上自宅外就業者・通学者数 全国，都道府県，市区町村,-,201010,2012-06-26,2026-05-29,02,人口・世帯,01,人口,393800,該当なし,0,

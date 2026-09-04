@@ -1,0 +1,36 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:             delta_rail   R-squared:                       0.280
+Model:                            OLS   Adj. R-squared:                  0.276
+Method:                 Least Squares   F-statistic:                     18.19
+Date:                Fri, 04 Sep 2026   Prob (F-statistic):           5.54e-32
+Time:                        10:06:10   Log-Likelihood:                 5334.3
+No. Observations:                1740   AIC:                        -1.065e+04
+Df Residuals:                    1729   BIC:                        -1.059e+04
+Df Model:                          10                                         
+Covariance Type:                  HC3                                         
+=============================================================================================
+                                coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------------------
+const                         0.0083      0.002      4.832      0.000       0.005       0.012
+d_A1101                    1.624e-07   1.93e-07      0.840      0.401   -2.16e-07    5.41e-07
+d_A1301                    1.471e-07   1.03e-06      0.143      0.886   -1.87e-06    2.17e-06
+d_A1302                    3.183e-07   2.31e-07      1.376      0.169   -1.35e-07    7.72e-07
+d_A1303                    5.014e-07   3.92e-07      1.278      0.201   -2.67e-07    1.27e-06
+d_F1102                   -1.477e-07    1.3e-07     -1.135      0.256   -4.03e-07    1.07e-07
+d_F1107                    7.382e-07   1.81e-06      0.407      0.684   -2.82e-06    4.29e-06
+d_F1108                   -5.558e-07    2.4e-07     -2.320      0.020   -1.03e-06   -8.62e-08
+d_aging_share_65plus         -0.1837      0.043     -4.263      0.000      -0.268      -0.099
+d_youth_share_0_14           -0.0344      0.070     -0.494      0.621      -0.171       0.102
+d_working_age_share_15_64    -0.0481      0.045     -1.071      0.284      -0.136       0.040
+==============================================================================
+Omnibus:                      454.462   Durbin-Watson:                   1.605
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):            11041.447
+Skew:                           0.647   Prob(JB):                         0.00
+Kurtosis:                      15.273   Cond. No.                     2.39e+06
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC3)
+[2] The condition number is large, 2.39e+06. This might indicate that there are
+strong multicollinearity or other numerical problems.

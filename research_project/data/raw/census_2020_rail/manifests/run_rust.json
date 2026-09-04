@@ -1,0 +1,15 @@
+{
+  "app_id_env_vars": "ESTAT_APP_ID, ESTAT_APP_ID_2 ...",
+  "data_endpoint": "getStatsData",
+  "fetcher": "estat-railway-fetcher",
+  "metadata_endpoint": "getMetaInfo",
+  "output_dir": ".\\research_project\\data\\raw\\census_2020_rail",
+  "search_endpoint": "getStatsList",
+  "search_word": "利用交通手段",
+  "source": "e-Stat API",
+  "status": "finished",
+  "terms": [
+    "鉄道・電車"
+  ],
+  "timestamp": "2026-09-03T17:20:28+09:00"
+}

@@ -1,0 +1,13 @@
+{
+  "status": "pass",
+  "model_feature_count": 69,
+  "core_feature_count": 29,
+  "expanded_feature_count": 69,
+  "untracked_core_feature_count": 0,
+  "provenance_complete_count": 69,
+  "untracked_model_feature_count": 0,
+  "temporally_safe_count": 69,
+  "temporally_unsafe_model_feature_count": 0,
+  "unknown_year_feature_count": 0,
+  "outcome_leak_feature_count": 0
+}

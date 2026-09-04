@@ -1,0 +1,1 @@
+Raw API responses retained below data/raw. SSDS target H730102/H7301 is used only for 2010/2020 cross-sectional work. Strict temporal target is separately harmonized from direct Census tables; see qa/temporal_target_definition.json. 2000/2010/2020 category definitions are not silently pooled.

@@ -1,0 +1,2 @@
+stats_data_id,stat_code,stat_name,gov_org_code,gov_org,statistics_name,title_no,title,cycle,survey_date,open_date,updated_date,main_category_code,main_category,sub_category_code,sub_category,overall_total_number,collect_area,small_area,description
+0000020108,00200502,社会・人口統計体系,00200,総務省,市区町村データ 基礎データ（オリジナル）,0000020108,Ｈ　居住,年度次,0,2026-06-19,2026-06-19,99,その他,99,その他,3895663,市区町村,0,"{""TABULATION_CATEGORY_EXPLANATION"":""社会・人口統計体系の市区町村ごとに集計したデータを提供します。""}"

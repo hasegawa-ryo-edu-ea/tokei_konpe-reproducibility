@@ -1,0 +1,22 @@
+# Factual result record
+
+- 2020 cross-section: 1740 municipalities.
+- Strict exact-code 2000/2010/2020 cohort: 1445 municipalities; 4335 rows.
+- Geographic GroupKFold and random KFold metrics: tables/all_model_performance.csv.
+- Fold-separated five-model OOF metrics and consensus residuals: analysis/robustness/.
+- Cluster method/grid metrics: analysis/clustering_comparison.csv.
+- Held-out permutation importance: analysis/interpretation/oof_permutation_importance.csv.
+- Best specified compact temporal test: delta_extra_trees, RMSE=0.017624; MAE=0.012317; R2=0.986054; Spearman=0.978955; mean bias=0.007074.
+- Temporal models use 2000/2010 population level, age structure, and prior rail share only; no 2020 predictors are used.
+- Fractional-logit robustness and 500-replicate prefecture-cluster bootstrap: analysis/bounded/ and analysis/bootstrap/.
+- Top fold-separated permutation features:
+  - E9106: RMSE increase=0.056413
+  - F1301: RMSE increase=0.021779
+  - D2201: RMSE increase=0.008296
+  - C120110: RMSE increase=0.005224
+  - F1307: RMSE increase=0.004430
+  - F1102: RMSE increase=0.002659
+  - A1302: RMSE increase=0.001268
+  - A1401: RMSE increase=0.001146
+  - A1301: RMSE increase=0.001046
+  - A1402: RMSE increase=0.000974

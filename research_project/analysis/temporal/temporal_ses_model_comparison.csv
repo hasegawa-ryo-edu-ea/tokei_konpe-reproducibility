@@ -1,0 +1,3 @@
+model,train_transition,test_transition,n_train,n_test,rmse,mae,r2,spearman,features
+ridge,2000->2010,2010->2020,1445,1316,0.1639410308007959,0.1629199840813971,-0.20668867087216025,0.9779169999788038,population_total;aging_share_65plus;working_age_share_15_64;rail_t
+elastic_net,2000->2010,2010->2020,1445,1316,0.053646871993311446,0.050890709646866004,0.8707862527405614,0.9806429664884816,population_total;aging_share_65plus;working_age_share_15_64;rail_t

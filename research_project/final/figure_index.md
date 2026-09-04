@@ -1,0 +1,20 @@
+# Figures
+
+- ale_C120110.png
+- ale_D2201.png
+- ale_E9106.png
+- ale_F1301.png
+- eda_aging_share_65plus_scatter.png
+- eda_population_density_scatter.png
+- eda_rail_distribution.png
+- gam_aging_share_65plus.png
+- gam_population_density.png
+- gam_working_age_share_15_64.png
+- gam_youth_share_0_14.png
+- group_oof_predicted_vs_observed.png
+- group_oof_residual_distribution.png
+- pdp_C120110.png
+- pdp_D2201.png
+- pdp_E9106.png
+- pdp_F1301.png
+- strict_cohort_rail_change_distributions.png

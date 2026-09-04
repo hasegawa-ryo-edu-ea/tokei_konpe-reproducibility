@@ -1,0 +1,27 @@
+{
+  "downloaded_rows": 46056,
+  "filters": {
+    "cdCat01": "H7301,H730101,H730102,H730103,H730104,H730105,H730108,H730109,H730110,H730111,H730112,H730113"
+  },
+  "notes": [
+    {
+      "$": "調査又は集計していないもの",
+      "@char": "***"
+    },
+    {
+      "$": "データが得られないもの",
+      "@char": "-"
+    },
+    {
+      "$": "数値が秘匿されているもの",
+      "@char": "X"
+    }
+  ],
+  "pages": 3,
+  "request_id": "cdCat01-H7301_H730101_H730102_H730103_H7_ada643ba1f",
+  "retrieved_at": "2026-09-03T17:15:49+09:00",
+  "source": "e-Stat API getStatsData",
+  "stats_data_id": "0000020108",
+  "total_number": 46056,
+  "values_file": ".\\research_project\\data\\raw\\estat_target_transport_original\\values\\0000020108\\cdCat01-H7301_H730101_H730102_H730103_H7_ada643ba1f.jsonl.gz"
+}

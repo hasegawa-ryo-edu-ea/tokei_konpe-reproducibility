@@ -1,0 +1,6 @@
+{
+  "retrieved_at": "2026-09-03T22:46:49.119487+00:00",
+  "source_url": "https://www.nstac.go.jp/files/SSDSE-A-2026.csv",
+  "raw_sha256": "1968d5c03de4db24c1ad7df20d06e7cb04bc46cb99a862364192d8d51c196409",
+  "note": "Immutable acquisition record. Raw SHA-256 was verified by a clean GitHub Actions checkout and replay. Replay may regenerate derived metadata but must preserve this original retrieval timestamp."
+}
